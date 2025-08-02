@@ -1,0 +1,1802 @@
+[
+  {
+    "call_id": "945bbbd7-0075-4cb6-95f9-2768131045be",
+    "agent_id": "58afaa66",
+    "customer_id": "3a9c042e",
+    "language": "en",
+    "start_time": "2025-07-22T06:36:18",
+    "duration_seconds": 37,
+    "transcript": "Salesperson: Hi, is this Parker?\nRecipient: Yes, who's this?\nSalesperson: I'm Dr. Corey Pruitt from GreenTech Inc.. I'm calling to introduce our new SmartWater Bottle.\nRecipient: Oh, what's special about it?\nSalesperson: It's eco-friendly and cost-efficient. Great for daily use.\nRecipient: That sounds useful. What's the price?\nSalesperson: It normally sells at $39, but we have a 5% discount.\nRecipient: Cool. I'll take one.\nSalesperson: Awesome! Your order is being processed. Thank you, Parker!"
+  },
+  {
+    "call_id": "748e313c-221a-400a-8add-37e754d5d892",
+    "agent_id": "8252987b",
+    "customer_id": "add5a8db",
+    "language": "en",
+    "start_time": "2025-07-03T06:09:02",
+    "duration_seconds": 35,
+    "transcript": "Salesperson: Hi, is this Henry?\nRecipient: Yes, who's this?\nSalesperson: I'm Gary Manning from Brita. I'm calling to introduce our new HydroBooster.\nRecipient: Oh, what's special about it?\nSalesperson: It's eco-friendly and cost-efficient. Great for daily use.\nRecipient: That sounds useful. What's the price?\nSalesperson: It normally sells at $38, but we have a 10% discount.\nRecipient: Cool. I'll take one.\nSalesperson: Awesome! Your order is being processed. Thank you, Henry!"
+  },
+  {
+    "call_id": "c27fcca7-bf64-4dfe-858d-0106b043afa9",
+    "agent_id": "fa64f779",
+    "customer_id": "f67a5b30",
+    "language": "en",
+    "start_time": "2025-06-24T18:39:31",
+    "duration_seconds": 35,
+    "transcript": "Salesperson: Hi, is this Sandoval?\nRecipient: Yes, who's this?\nSalesperson: I'm Marissa Norman from Brita. I'm calling to introduce our new EcoCycle.\nRecipient: Oh, what's special about it?\nSalesperson: It's eco-friendly and cost-efficient. Great for daily use.\nRecipient: That sounds useful. What's the price?\nSalesperson: It normally sells at $46, but we have a 5% discount.\nRecipient: Cool. I'll take one.\nSalesperson: Awesome! Your order is being processed. Thank you, Sandoval!"
+  },
+  {
+    "call_id": "30d101bc-c702-48ec-add7-65e5071fc8c2",
+    "agent_id": "f785d1b7",
+    "customer_id": "717c2c31",
+    "language": "en",
+    "start_time": "2025-07-01T10:29:01",
+    "duration_seconds": 36,
+    "transcript": "Salesperson: Hi, is this Bush?\nRecipient: Yes, who's this?\nSalesperson: I'm Sandra Williams from EcoHome. I'm calling to introduce our new SmartWater Bottle.\nRecipient: Oh, what's special about it?\nSalesperson: It's eco-friendly and cost-efficient. Great for daily use.\nRecipient: That sounds useful. What's the price?\nSalesperson: It normally sells at $61, but we have a 5% discount.\nRecipient: Cool. I'll take one.\nSalesperson: Awesome! Your order is being processed. Thank you, Bush!"
+  },
+  {
+    "call_id": "43b2a8d8-99c6-48d1-b6ac-970c33b5d9f2",
+    "agent_id": "6c9e0ec1",
+    "customer_id": "cc3a972e",
+    "language": "en",
+    "start_time": "2025-06-04T13:28:28",
+    "duration_seconds": 36,
+    "transcript": "Salesperson: Hi, is this Rose?\nRecipient: Yes, who's this?\nSalesperson: I'm Patrick Morgan from GreenTech Inc.. I'm calling to introduce our new AirFilter Pro.\nRecipient: Oh, what's special about it?\nSalesperson: It's eco-friendly and cost-efficient. Great for daily use.\nRecipient: That sounds useful. What's the price?\nSalesperson: It normally sells at $41, but we have a 10% discount.\nRecipient: Cool. I'll take one.\nSalesperson: Awesome! Your order is being processed. Thank you, Rose!"
+  },
+  {
+    "call_id": "80043136-0941-45d6-8397-32374e3487a8",
+    "agent_id": "8f4d0fa4",
+    "customer_id": "55fbe548",
+    "language": "en",
+    "start_time": "2025-07-08T04:09:22",
+    "duration_seconds": 46,
+    "transcript": "Salesperson: Hello, is this Nolan?\nRecipient: Yes, this is Nolan.\nSalesperson: Hi Nolan, I'm William Cisneros from EcoHome. I'd like to talk about our RecycleMate.\nRecipient: Hmm, I'm not sure if we need that.\nSalesperson: Actually, RecycleMate can help you save costs and improve efficiency. It's perfect for businesses like yours.\nRecipient: Sounds interesting, but we're on a tight budget.\nSalesperson: I understand. We're offering a limited-time discount. Would you like to try a free demo?\nRecipient: Maybe later. We're just not ready now.\nSalesperson: No worries, Nolan. Thanks for your time!"
+  },
+  {
+    "call_id": "7db7f68b-096c-4b56-9142-dc685e7701ef",
+    "agent_id": "270e7e89",
+    "customer_id": "e8c94a12",
+    "language": "en",
+    "start_time": "2025-07-21T00:28:16",
+    "duration_seconds": 47,
+    "transcript": "Salesperson: Hello, is this Griffin?\nRecipient: Yes, this is Griffin.\nSalesperson: Hi Griffin, I'm Jennifer Hernandez from Brita. I'd like to talk about our SmartWater Bottle.\nRecipient: Hmm, I'm not sure if we need that.\nSalesperson: Actually, SmartWater Bottle can help you save costs and improve efficiency. It's perfect for businesses like yours.\nRecipient: Sounds interesting, but we're on a tight budget.\nSalesperson: I understand. We're offering a limited-time discount. Would you like to try a free demo?\nRecipient: Maybe later. We're just not ready now.\nSalesperson: No worries, Griffin. Thanks for your time!"
+  },
+  {
+    "call_id": "118c5c92-22ee-410d-bdc9-d31caac79409",
+    "agent_id": "b09dde77",
+    "customer_id": "a71cf51f",
+    "language": "en",
+    "start_time": "2025-07-16T18:22:35",
+    "duration_seconds": 47,
+    "transcript": "Salesperson: Hello, is this Mendoza?\nRecipient: Yes, this is Mendoza.\nSalesperson: Hi Mendoza, I'm Yvonne Jackson from SmartClean. I'd like to talk about our AirFilter Pro.\nRecipient: Hmm, I'm not sure if we need that.\nSalesperson: Actually, AirFilter Pro can help you save costs and improve efficiency. It's perfect for businesses like yours.\nRecipient: Sounds interesting, but we're on a tight budget.\nSalesperson: I understand. We're offering a limited-time discount. Would you like to try a free demo?\nRecipient: Maybe later. We're just not ready now.\nSalesperson: No worries, Mendoza. Thanks for your time!"
+  },
+  {
+    "call_id": "5fe9d4cf-4044-4d97-b59c-5cdf4c9f4663",
+    "agent_id": "8b9038c5",
+    "customer_id": "241b5858",
+    "language": "en",
+    "start_time": "2025-07-21T12:18:45",
+    "duration_seconds": 35,
+    "transcript": "Salesperson: Hi, is this White?\nRecipient: Yes, who's this?\nSalesperson: I'm Sherry Mcdonald from Brita. I'm calling to introduce our new EcoCycle.\nRecipient: Oh, what's special about it?\nSalesperson: It's eco-friendly and cost-efficient. Great for daily use.\nRecipient: That sounds useful. What's the price?\nSalesperson: It normally sells at $30, but we have a 5% discount.\nRecipient: Cool. I'll take one.\nSalesperson: Awesome! Your order is being processed. Thank you, White!"
+  },
+  {
+    "call_id": "805cf120-9eb3-4427-8f81-3fa53bddb593",
+    "agent_id": "0c827769",
+    "customer_id": "1a8a6d7d",
+    "language": "en",
+    "start_time": "2025-06-20T13:22:40",
+    "duration_seconds": 35,
+    "transcript": "Salesperson: Hi, is this Cook?\nRecipient: Yes, who's this?\nSalesperson: I'm Samantha Turner from EcoHome. I'm calling to introduce our new HydroBooster.\nRecipient: Oh, what's special about it?\nSalesperson: It's eco-friendly and cost-efficient. Great for daily use.\nRecipient: That sounds useful. What's the price?\nSalesperson: It normally sells at $43, but we have a 10% discount.\nRecipient: Cool. I'll take one.\nSalesperson: Awesome! Your order is being processed. Thank you, Cook!"
+  },
+  {
+    "call_id": "b96a1f53-1f7c-4d5c-94df-f025a38adcbc",
+    "agent_id": "4d385ed4",
+    "customer_id": "6a7464c3",
+    "language": "en",
+    "start_time": "2025-07-01T14:33:00",
+    "duration_seconds": 36,
+    "transcript": "Salesperson: Hi, is this Joseph?\nRecipient: Yes, who's this?\nSalesperson: I'm Brandon Jacobs from GreenTech Inc.. I'm calling to introduce our new HydroBooster.\nRecipient: Oh, what's special about it?\nSalesperson: It's eco-friendly and cost-efficient. Great for daily use.\nRecipient: That sounds useful. What's the price?\nSalesperson: It normally sells at $34, but we have a 10% discount.\nRecipient: Cool. I'll take one.\nSalesperson: Awesome! Your order is being processed. Thank you, Joseph!"
+  },
+  {
+    "call_id": "b878a5a4-c6e3-44b5-a8d2-06962d2bf6a9",
+    "agent_id": "a51d540c",
+    "customer_id": "17d4353d",
+    "language": "en",
+    "start_time": "2025-07-04T22:10:35",
+    "duration_seconds": 46,
+    "transcript": "Salesperson: Hello, is this Nelson?\nRecipient: Yes, this is Nelson.\nSalesperson: Hi Nelson, I'm Keith Nicholson from HydroPure. I'd like to talk about our EcoCycle.\nRecipient: Hmm, I'm not sure if we need that.\nSalesperson: Actually, EcoCycle can help you save costs and improve efficiency. It's perfect for businesses like yours.\nRecipient: Sounds interesting, but we're on a tight budget.\nSalesperson: I understand. We're offering a limited-time discount. Would you like to try a free demo?\nRecipient: Maybe later. We're just not ready now.\nSalesperson: No worries, Nelson. Thanks for your time!"
+  },
+  {
+    "call_id": "96d9f361-c81c-463c-93f8-d3026f25e066",
+    "agent_id": "a7d17c46",
+    "customer_id": "fb3fee26",
+    "language": "en",
+    "start_time": "2025-06-25T10:26:01",
+    "duration_seconds": 47,
+    "transcript": "Salesperson: Hello, is this Martin?\nRecipient: Yes, this is Martin.\nSalesperson: Hi Martin, I'm Laura Fuller from Brita. I'd like to talk about our AirFilter Pro.\nRecipient: Hmm, I'm not sure if we need that.\nSalesperson: Actually, AirFilter Pro can help you save costs and improve efficiency. It's perfect for businesses like yours.\nRecipient: Sounds interesting, but we're on a tight budget.\nSalesperson: I understand. We're offering a limited-time discount. Would you like to try a free demo?\nRecipient: Maybe later. We're just not ready now.\nSalesperson: No worries, Martin. Thanks for your time!"
+  },
+  {
+    "call_id": "1557a642-0b56-4901-880d-4f28f9029ee6",
+    "agent_id": "4b55b797",
+    "customer_id": "53ab559e",
+    "language": "en",
+    "start_time": "2025-07-06T02:43:50",
+    "duration_seconds": 47,
+    "transcript": "Salesperson: Hello, is this Gonzales?\nRecipient: Yes, this is Gonzales.\nSalesperson: Hi Gonzales, I'm Sarah Holland from HydroPure. I'd like to talk about our AirFilter Pro.\nRecipient: Hmm, I'm not sure if we need that.\nSalesperson: Actually, AirFilter Pro can help you save costs and improve efficiency. It's perfect for businesses like yours.\nRecipient: Sounds interesting, but we're on a tight budget.\nSalesperson: I understand. We're offering a limited-time discount. Would you like to try a free demo?\nRecipient: Maybe later. We're just not ready now.\nSalesperson: No worries, Gonzales. Thanks for your time!"
+  },
+  {
+    "call_id": "a7bf28bd-4ad5-47b9-9f37-749fcbbdc334",
+    "agent_id": "d413f255",
+    "customer_id": "0f8a932b",
+    "language": "en",
+    "start_time": "2025-07-23T06:52:17",
+    "duration_seconds": 36,
+    "transcript": "Salesperson: Hi, is this Peterson?\nRecipient: Yes, who's this?\nSalesperson: I'm Barbara Stewart from GreenTech Inc.. I'm calling to introduce our new SmartWater Bottle.\nRecipient: Oh, what's special about it?\nSalesperson: It's eco-friendly and cost-efficient. Great for daily use.\nRecipient: That sounds useful. What's the price?\nSalesperson: It normally sells at $51, but we have a 5% discount.\nRecipient: Cool. I'll take one.\nSalesperson: Awesome! Your order is being processed. Thank you, Peterson!"
+  },
+  {
+    "call_id": "bdb1a972-4ef9-42ba-9b4b-28c73405ca1c",
+    "agent_id": "48042ad1",
+    "customer_id": "d89af711",
+    "language": "en",
+    "start_time": "2025-07-06T10:01:45",
+    "duration_seconds": 35,
+    "transcript": "Salesperson: Hi, is this Shields?\nRecipient: Yes, who's this?\nSalesperson: I'm Stephen White from HydroPure. I'm calling to introduce our new RecycleMate.\nRecipient: Oh, what's special about it?\nSalesperson: It's eco-friendly and cost-efficient. Great for daily use.\nRecipient: That sounds useful. What's the price?\nSalesperson: It normally sells at $35, but we have a 15% discount.\nRecipient: Cool. I'll take one.\nSalesperson: Awesome! Your order is being processed. Thank you, Shields!"
+  },
+  {
+    "call_id": "39a350b2-c687-4520-8fb8-4c03ba43566c",
+    "agent_id": "62ed56c8",
+    "customer_id": "c4474176",
+    "language": "en",
+    "start_time": "2025-06-28T13:15:33",
+    "duration_seconds": 35,
+    "transcript": "Salesperson: Hi, is this Tate?\nRecipient: Yes, who's this?\nSalesperson: I'm Caleb Hernandez from SmartClean. I'm calling to introduce our new RecycleMate.\nRecipient: Oh, what's special about it?\nSalesperson: It's eco-friendly and cost-efficient. Great for daily use.\nRecipient: That sounds useful. What's the price?\nSalesperson: It normally sells at $34, but we have a 5% discount.\nRecipient: Cool. I'll take one.\nSalesperson: Awesome! Your order is being processed. Thank you, Tate!"
+  },
+  {
+    "call_id": "706c13e7-c985-48a6-b29d-b1ddc679d2b2",
+    "agent_id": "a7146ddf",
+    "customer_id": "07079106",
+    "language": "en",
+    "start_time": "2025-06-07T07:54:54",
+    "duration_seconds": 47,
+    "transcript": "Salesperson: Hello, is this Spence?\nRecipient: Yes, this is Spence.\nSalesperson: Hi Spence, I'm Lacey Morrison from Brita. I'd like to talk about our AirFilter Pro.\nRecipient: Hmm, I'm not sure if we need that.\nSalesperson: Actually, AirFilter Pro can help you save costs and improve efficiency. It's perfect for businesses like yours.\nRecipient: Sounds interesting, but we're on a tight budget.\nSalesperson: I understand. We're offering a limited-time discount. Would you like to try a free demo?\nRecipient: Maybe later. We're just not ready now.\nSalesperson: No worries, Spence. Thanks for your time!"
+  },
+  {
+    "call_id": "19bd0ac3-eb67-4ebc-bed3-067c4a3dc202",
+    "agent_id": "3bbbe42e",
+    "customer_id": "d20b684d",
+    "language": "en",
+    "start_time": "2025-07-20T17:13:36",
+    "duration_seconds": 35,
+    "transcript": "Salesperson: Hi, is this Jacobs?\nRecipient: Yes, who's this?\nSalesperson: I'm Tommy Dudley from EcoHome. I'm calling to introduce our new RecycleMate.\nRecipient: Oh, what's special about it?\nSalesperson: It's eco-friendly and cost-efficient. Great for daily use.\nRecipient: That sounds useful. What's the price?\nSalesperson: It normally sells at $31, but we have a 5% discount.\nRecipient: Cool. I'll take one.\nSalesperson: Awesome! Your order is being processed. Thank you, Jacobs!"
+  },
+  {
+    "call_id": "3d0fef0a-b5c3-4880-ac54-66940e1b9540",
+    "agent_id": "6b5c3817",
+    "customer_id": "da4fcd42",
+    "language": "en",
+    "start_time": "2025-06-29T23:06:50",
+    "duration_seconds": 47,
+    "transcript": "Salesperson: Hello, is this Rodriguez?\nRecipient: Yes, this is Rodriguez.\nSalesperson: Hi Rodriguez, I'm Marilyn Mayer from SmartClean. I'd like to talk about our SmartWater Bottle.\nRecipient: Hmm, I'm not sure if we need that.\nSalesperson: Actually, SmartWater Bottle can help you save costs and improve efficiency. It's perfect for businesses like yours.\nRecipient: Sounds interesting, but we're on a tight budget.\nSalesperson: I understand. We're offering a limited-time discount. Would you like to try a free demo?\nRecipient: Maybe later. We're just not ready now.\nSalesperson: No worries, Rodriguez. Thanks for your time!"
+  },
+  {
+    "call_id": "a9fc81d0-97c6-4dc4-b36b-906ffc895283",
+    "agent_id": "d0edbbc6",
+    "customer_id": "e76ea8c1",
+    "language": "en",
+    "start_time": "2025-06-23T05:48:42",
+    "duration_seconds": 47,
+    "transcript": "Salesperson: Hello, is this Hayes?\nRecipient: Yes, this is Hayes.\nSalesperson: Hi Hayes, I'm Kimberly Martinez from EcoHome. I'd like to talk about our AirFilter Pro.\nRecipient: Hmm, I'm not sure if we need that.\nSalesperson: Actually, AirFilter Pro can help you save costs and improve efficiency. It's perfect for businesses like yours.\nRecipient: Sounds interesting, but we're on a tight budget.\nSalesperson: I understand. We're offering a limited-time discount. Would you like to try a free demo?\nRecipient: Maybe later. We're just not ready now.\nSalesperson: No worries, Hayes. Thanks for your time!"
+  },
+  {
+    "call_id": "9b20dba2-2a5e-47af-9649-bc2b6a42a75f",
+    "agent_id": "493600a2",
+    "customer_id": "a9332ae4",
+    "language": "en",
+    "start_time": "2025-07-04T11:29:45",
+    "duration_seconds": 46,
+    "transcript": "Salesperson: Hello, is this Douglas?\nRecipient: Yes, this is Douglas.\nSalesperson: Hi Douglas, I'm Carmen Solis from GreenTech Inc.. I'd like to talk about our HydroBooster.\nRecipient: Hmm, I'm not sure if we need that.\nSalesperson: Actually, HydroBooster can help you save costs and improve efficiency. It's perfect for businesses like yours.\nRecipient: Sounds interesting, but we're on a tight budget.\nSalesperson: I understand. We're offering a limited-time discount. Would you like to try a free demo?\nRecipient: Maybe later. We're just not ready now.\nSalesperson: No worries, Douglas. Thanks for your time!"
+  },
+  {
+    "call_id": "322046ba-6ccc-44a1-b137-98febb22cdf4",
+    "agent_id": "6d4f69ea",
+    "customer_id": "0ddca022",
+    "language": "en",
+    "start_time": "2025-06-10T00:34:40",
+    "duration_seconds": 35,
+    "transcript": "Salesperson: Hi, is this Jones?\nRecipient: Yes, who's this?\nSalesperson: I'm Daniel Murphy from EcoHome. I'm calling to introduce our new RecycleMate.\nRecipient: Oh, what's special about it?\nSalesperson: It's eco-friendly and cost-efficient. Great for daily use.\nRecipient: That sounds useful. What's the price?\nSalesperson: It normally sells at $51, but we have a 15% discount.\nRecipient: Cool. I'll take one.\nSalesperson: Awesome! Your order is being processed. Thank you, Jones!"
+  },
+  {
+    "call_id": "cda037c7-b464-4224-81ab-46f898cee6ec",
+    "agent_id": "16d628a8",
+    "customer_id": "2d66f08b",
+    "language": "en",
+    "start_time": "2025-07-03T02:14:19",
+    "duration_seconds": 46,
+    "transcript": "Salesperson: Hello, is this Williams?\nRecipient: Yes, this is Williams.\nSalesperson: Hi Williams, I'm Emily Garcia from EcoHome. I'd like to talk about our HydroBooster.\nRecipient: Hmm, I'm not sure if we need that.\nSalesperson: Actually, HydroBooster can help you save costs and improve efficiency. It's perfect for businesses like yours.\nRecipient: Sounds interesting, but we're on a tight budget.\nSalesperson: I understand. We're offering a limited-time discount. Would you like to try a free demo?\nRecipient: Maybe later. We're just not ready now.\nSalesperson: No worries, Williams. Thanks for your time!"
+  },
+  {
+    "call_id": "4b8735d4-0dd7-4823-bc2b-5c9cf2cb8f60",
+    "agent_id": "dde6d611",
+    "customer_id": "ab5e38e2",
+    "language": "en",
+    "start_time": "2025-06-29T15:29:59",
+    "duration_seconds": 46,
+    "transcript": "Salesperson: Hello, is this Kim?\nRecipient: Yes, this is Kim.\nSalesperson: Hi Kim, I'm Jeff Sullivan from Brita. I'd like to talk about our RecycleMate.\nRecipient: Hmm, I'm not sure if we need that.\nSalesperson: Actually, RecycleMate can help you save costs and improve efficiency. It's perfect for businesses like yours.\nRecipient: Sounds interesting, but we're on a tight budget.\nSalesperson: I understand. We're offering a limited-time discount. Would you like to try a free demo?\nRecipient: Maybe later. We're just not ready now.\nSalesperson: No worries, Kim. Thanks for your time!"
+  },
+  {
+    "call_id": "63218c6b-1aa2-434c-a09d-15946ba72401",
+    "agent_id": "53951dfb",
+    "customer_id": "4701ad7d",
+    "language": "en",
+    "start_time": "2025-06-29T18:05:47",
+    "duration_seconds": 46,
+    "transcript": "Salesperson: Hello, is this Hull?\nRecipient: Yes, this is Hull.\nSalesperson: Hi Hull, I'm Diana Torres from Brita. I'd like to talk about our EcoCycle.\nRecipient: Hmm, I'm not sure if we need that.\nSalesperson: Actually, EcoCycle can help you save costs and improve efficiency. It's perfect for businesses like yours.\nRecipient: Sounds interesting, but we're on a tight budget.\nSalesperson: I understand. We're offering a limited-time discount. Would you like to try a free demo?\nRecipient: Maybe later. We're just not ready now.\nSalesperson: No worries, Hull. Thanks for your time!"
+  },
+  {
+    "call_id": "2567b651-8a92-46e7-949b-fbcc116c65a3",
+    "agent_id": "e2375e1f",
+    "customer_id": "363ffc84",
+    "language": "en",
+    "start_time": "2025-07-28T16:53:22",
+    "duration_seconds": 36,
+    "transcript": "Salesperson: Hi, is this Koch?\nRecipient: Yes, who's this?\nSalesperson: I'm Nicole Neal from SmartClean. I'm calling to introduce our new AirFilter Pro.\nRecipient: Oh, what's special about it?\nSalesperson: It's eco-friendly and cost-efficient. Great for daily use.\nRecipient: That sounds useful. What's the price?\nSalesperson: It normally sells at $30, but we have a 15% discount.\nRecipient: Cool. I'll take one.\nSalesperson: Awesome! Your order is being processed. Thank you, Koch!"
+  },
+  {
+    "call_id": "438f9143-f341-4727-bc8d-4923773553c4",
+    "agent_id": "a556ef02",
+    "customer_id": "8bcf06ef",
+    "language": "en",
+    "start_time": "2025-07-07T03:50:29",
+    "duration_seconds": 35,
+    "transcript": "Salesperson: Hi, is this Johnston?\nRecipient: Yes, who's this?\nSalesperson: I'm Tara Carpenter from SmartClean. I'm calling to introduce our new EcoCycle.\nRecipient: Oh, what's special about it?\nSalesperson: It's eco-friendly and cost-efficient. Great for daily use.\nRecipient: That sounds useful. What's the price?\nSalesperson: It normally sells at $63, but we have a 15% discount.\nRecipient: Cool. I'll take one.\nSalesperson: Awesome! Your order is being processed. Thank you, Johnston!"
+  },
+  {
+    "call_id": "53eb284b-a2c4-4fb7-b57d-1dad1def80f5",
+    "agent_id": "fb98a371",
+    "customer_id": "fd7d863b",
+    "language": "en",
+    "start_time": "2025-06-06T00:11:50",
+    "duration_seconds": 36,
+    "transcript": "Salesperson: Hi, is this Wright?\nRecipient: Yes, who's this?\nSalesperson: I'm Deborah Armstrong from GreenTech Inc.. I'm calling to introduce our new SmartWater Bottle.\nRecipient: Oh, what's special about it?\nSalesperson: It's eco-friendly and cost-efficient. Great for daily use.\nRecipient: That sounds useful. What's the price?\nSalesperson: It normally sells at $51, but we have a 5% discount.\nRecipient: Cool. I'll take one.\nSalesperson: Awesome! Your order is being processed. Thank you, Wright!"
+  },
+  {
+    "call_id": "67d18a6d-6cc5-4892-b2b1-7b92f26c2eb7",
+    "agent_id": "733de8b4",
+    "customer_id": "f02f4d7b",
+    "language": "en",
+    "start_time": "2025-06-07T00:04:01",
+    "duration_seconds": 47,
+    "transcript": "Salesperson: Hello, is this Barron?\nRecipient: Yes, this is Barron.\nSalesperson: Hi Barron, I'm Kelly Torres from HydroPure. I'd like to talk about our SmartWater Bottle.\nRecipient: Hmm, I'm not sure if we need that.\nSalesperson: Actually, SmartWater Bottle can help you save costs and improve efficiency. It's perfect for businesses like yours.\nRecipient: Sounds interesting, but we're on a tight budget.\nSalesperson: I understand. We're offering a limited-time discount. Would you like to try a free demo?\nRecipient: Maybe later. We're just not ready now.\nSalesperson: No worries, Barron. Thanks for your time!"
+  },
+  {
+    "call_id": "e3a72fd7-34df-43a8-a8a7-6a71d4406f3b",
+    "agent_id": "3f6773e8",
+    "customer_id": "b8a19aad",
+    "language": "en",
+    "start_time": "2025-07-26T18:33:50",
+    "duration_seconds": 35,
+    "transcript": "Salesperson: Hi, is this Burton?\nRecipient: Yes, who's this?\nSalesperson: I'm Scott Mccarthy from Brita. I'm calling to introduce our new EcoCycle.\nRecipient: Oh, what's special about it?\nSalesperson: It's eco-friendly and cost-efficient. Great for daily use.\nRecipient: That sounds useful. What's the price?\nSalesperson: It normally sells at $36, but we have a 5% discount.\nRecipient: Cool. I'll take one.\nSalesperson: Awesome! Your order is being processed. Thank you, Burton!"
+  },
+  {
+    "call_id": "d8a7ecad-22d0-45d2-bf3d-bea8256d4bec",
+    "agent_id": "9d077aa3",
+    "customer_id": "fe951192",
+    "language": "en",
+    "start_time": "2025-06-09T16:52:04",
+    "duration_seconds": 47,
+    "transcript": "Salesperson: Hello, is this Smith?\nRecipient: Yes, this is Smith.\nSalesperson: Hi Smith, I'm Charles Thompson from GreenTech Inc.. I'd like to talk about our SmartWater Bottle.\nRecipient: Hmm, I'm not sure if we need that.\nSalesperson: Actually, SmartWater Bottle can help you save costs and improve efficiency. It's perfect for businesses like yours.\nRecipient: Sounds interesting, but we're on a tight budget.\nSalesperson: I understand. We're offering a limited-time discount. Would you like to try a free demo?\nRecipient: Maybe later. We're just not ready now.\nSalesperson: No worries, Smith. Thanks for your time!"
+  },
+  {
+    "call_id": "b35c27d5-80a8-4b5d-8224-4cf93f12f37d",
+    "agent_id": "5a99294c",
+    "customer_id": "0fecac30",
+    "language": "en",
+    "start_time": "2025-07-21T06:47:20",
+    "duration_seconds": 36,
+    "transcript": "Salesperson: Hi, is this Kim?\nRecipient: Yes, who's this?\nSalesperson: I'm Erika Reeves from HydroPure. I'm calling to introduce our new SmartWater Bottle.\nRecipient: Oh, what's special about it?\nSalesperson: It's eco-friendly and cost-efficient. Great for daily use.\nRecipient: That sounds useful. What's the price?\nSalesperson: It normally sells at $63, but we have a 15% discount.\nRecipient: Cool. I'll take one.\nSalesperson: Awesome! Your order is being processed. Thank you, Kim!"
+  },
+  {
+    "call_id": "e047a046-c7a3-45be-b031-7b12d127d5f8",
+    "agent_id": "b91f880f",
+    "customer_id": "00443a58",
+    "language": "en",
+    "start_time": "2025-06-27T04:10:44",
+    "duration_seconds": 47,
+    "transcript": "Salesperson: Hello, is this Baker?\nRecipient: Yes, this is Baker.\nSalesperson: Hi Baker, I'm Lauren Bell from EcoHome. I'd like to talk about our SmartWater Bottle.\nRecipient: Hmm, I'm not sure if we need that.\nSalesperson: Actually, SmartWater Bottle can help you save costs and improve efficiency. It's perfect for businesses like yours.\nRecipient: Sounds interesting, but we're on a tight budget.\nSalesperson: I understand. We're offering a limited-time discount. Would you like to try a free demo?\nRecipient: Maybe later. We're just not ready now.\nSalesperson: No worries, Baker. Thanks for your time!"
+  },
+  {
+    "call_id": "21c3f163-e227-4c82-ae00-a4d9b0c9c8b9",
+    "agent_id": "c872d4c4",
+    "customer_id": "0108bbb6",
+    "language": "en",
+    "start_time": "2025-06-03T09:45:03",
+    "duration_seconds": 46,
+    "transcript": "Salesperson: Hello, is this Walton?\nRecipient: Yes, this is Walton.\nSalesperson: Hi Walton, I'm Kimberly Brown from HydroPure. I'd like to talk about our EcoCycle.\nRecipient: Hmm, I'm not sure if we need that.\nSalesperson: Actually, EcoCycle can help you save costs and improve efficiency. It's perfect for businesses like yours.\nRecipient: Sounds interesting, but we're on a tight budget.\nSalesperson: I understand. We're offering a limited-time discount. Would you like to try a free demo?\nRecipient: Maybe later. We're just not ready now.\nSalesperson: No worries, Walton. Thanks for your time!"
+  },
+  {
+    "call_id": "e875ebb9-a51c-4102-9abe-1f39c8292ec3",
+    "agent_id": "e990a193",
+    "customer_id": "bd84ed06",
+    "language": "en",
+    "start_time": "2025-06-11T15:26:51",
+    "duration_seconds": 47,
+    "transcript": "Salesperson: Hello, is this Anderson?\nRecipient: Yes, this is Anderson.\nSalesperson: Hi Anderson, I'm Edward Serrano from SmartClean. I'd like to talk about our SmartWater Bottle.\nRecipient: Hmm, I'm not sure if we need that.\nSalesperson: Actually, SmartWater Bottle can help you save costs and improve efficiency. It's perfect for businesses like yours.\nRecipient: Sounds interesting, but we're on a tight budget.\nSalesperson: I understand. We're offering a limited-time discount. Would you like to try a free demo?\nRecipient: Maybe later. We're just not ready now.\nSalesperson: No worries, Anderson. Thanks for your time!"
+  },
+  {
+    "call_id": "d93c2354-d7cf-46b4-ae7a-7331792d633c",
+    "agent_id": "bfffe0ad",
+    "customer_id": "2edf4171",
+    "language": "en",
+    "start_time": "2025-07-19T12:49:22",
+    "duration_seconds": 46,
+    "transcript": "Salesperson: Hello, is this King?\nRecipient: Yes, this is King.\nSalesperson: Hi King, I'm Jermaine Kim from EcoHome. I'd like to talk about our EcoCycle.\nRecipient: Hmm, I'm not sure if we need that.\nSalesperson: Actually, EcoCycle can help you save costs and improve efficiency. It's perfect for businesses like yours.\nRecipient: Sounds interesting, but we're on a tight budget.\nSalesperson: I understand. We're offering a limited-time discount. Would you like to try a free demo?\nRecipient: Maybe later. We're just not ready now.\nSalesperson: No worries, King. Thanks for your time!"
+  },
+  {
+    "call_id": "eb7eca48-582d-40df-b43f-1e35841b5bc1",
+    "agent_id": "66617a0d",
+    "customer_id": "4a85d905",
+    "language": "en",
+    "start_time": "2025-06-04T13:59:02",
+    "duration_seconds": 47,
+    "transcript": "Salesperson: Hello, is this Murphy?\nRecipient: Yes, this is Murphy.\nSalesperson: Hi Murphy, I'm Crystal Santana from Brita. I'd like to talk about our AirFilter Pro.\nRecipient: Hmm, I'm not sure if we need that.\nSalesperson: Actually, AirFilter Pro can help you save costs and improve efficiency. It's perfect for businesses like yours.\nRecipient: Sounds interesting, but we're on a tight budget.\nSalesperson: I understand. We're offering a limited-time discount. Would you like to try a free demo?\nRecipient: Maybe later. We're just not ready now.\nSalesperson: No worries, Murphy. Thanks for your time!"
+  },
+  {
+    "call_id": "8138f13e-36e6-40a4-821e-1384e9c160c4",
+    "agent_id": "a5bf99b4",
+    "customer_id": "3c33962b",
+    "language": "en",
+    "start_time": "2025-06-03T05:33:40",
+    "duration_seconds": 35,
+    "transcript": "Salesperson: Hi, is this Murphy?\nRecipient: Yes, who's this?\nSalesperson: I'm Sean Webster from EcoHome. I'm calling to introduce our new EcoCycle.\nRecipient: Oh, what's special about it?\nSalesperson: It's eco-friendly and cost-efficient. Great for daily use.\nRecipient: That sounds useful. What's the price?\nSalesperson: It normally sells at $59, but we have a 15% discount.\nRecipient: Cool. I'll take one.\nSalesperson: Awesome! Your order is being processed. Thank you, Murphy!"
+  },
+  {
+    "call_id": "e727883e-353a-4c13-889c-cb292217b469",
+    "agent_id": "6676823a",
+    "customer_id": "03989ab2",
+    "language": "en",
+    "start_time": "2025-07-12T08:38:31",
+    "duration_seconds": 46,
+    "transcript": "Salesperson: Hello, is this Mueller?\nRecipient: Yes, this is Mueller.\nSalesperson: Hi Mueller, I'm Tammy Murray from GreenTech Inc.. I'd like to talk about our RecycleMate.\nRecipient: Hmm, I'm not sure if we need that.\nSalesperson: Actually, RecycleMate can help you save costs and improve efficiency. It's perfect for businesses like yours.\nRecipient: Sounds interesting, but we're on a tight budget.\nSalesperson: I understand. We're offering a limited-time discount. Would you like to try a free demo?\nRecipient: Maybe later. We're just not ready now.\nSalesperson: No worries, Mueller. Thanks for your time!"
+  },
+  {
+    "call_id": "e3157a9c-72ee-4c49-ba86-b65688e209b9",
+    "agent_id": "bf24a9b2",
+    "customer_id": "e338298e",
+    "language": "en",
+    "start_time": "2025-06-14T11:38:44",
+    "duration_seconds": 36,
+    "transcript": "Salesperson: Hi, is this Kaiser?\nRecipient: Yes, who's this?\nSalesperson: I'm Karen Wright from EcoHome. I'm calling to introduce our new SmartWater Bottle.\nRecipient: Oh, what's special about it?\nSalesperson: It's eco-friendly and cost-efficient. Great for daily use.\nRecipient: That sounds useful. What's the price?\nSalesperson: It normally sells at $31, but we have a 15% discount.\nRecipient: Cool. I'll take one.\nSalesperson: Awesome! Your order is being processed. Thank you, Kaiser!"
+  },
+  {
+    "call_id": "bb418303-bcfe-478a-9d62-32b6c1d8dd2f",
+    "agent_id": "5499d2d1",
+    "customer_id": "53dc1f86",
+    "language": "en",
+    "start_time": "2025-06-20T01:53:05",
+    "duration_seconds": 35,
+    "transcript": "Salesperson: Hi, is this Miller?\nRecipient: Yes, who's this?\nSalesperson: I'm Stephen Howard from Brita. I'm calling to introduce our new HydroBooster.\nRecipient: Oh, what's special about it?\nSalesperson: It's eco-friendly and cost-efficient. Great for daily use.\nRecipient: That sounds useful. What's the price?\nSalesperson: It normally sells at $56, but we have a 15% discount.\nRecipient: Cool. I'll take one.\nSalesperson: Awesome! Your order is being processed. Thank you, Miller!"
+  },
+  {
+    "call_id": "791370ea-15c0-4297-b32a-1de6db9a5ee3",
+    "agent_id": "62760313",
+    "customer_id": "a593652d",
+    "language": "en",
+    "start_time": "2025-07-24T09:31:02",
+    "duration_seconds": 46,
+    "transcript": "Salesperson: Hello, is this Wheeler?\nRecipient: Yes, this is Wheeler.\nSalesperson: Hi Wheeler, I'm Julie Davis from Brita. I'd like to talk about our RecycleMate.\nRecipient: Hmm, I'm not sure if we need that.\nSalesperson: Actually, RecycleMate can help you save costs and improve efficiency. It's perfect for businesses like yours.\nRecipient: Sounds interesting, but we're on a tight budget.\nSalesperson: I understand. We're offering a limited-time discount. Would you like to try a free demo?\nRecipient: Maybe later. We're just not ready now.\nSalesperson: No worries, Wheeler. Thanks for your time!"
+  },
+  {
+    "call_id": "61d5e8b6-d293-4360-809a-7acc885c88a2",
+    "agent_id": "cd077d6e",
+    "customer_id": "2d051d56",
+    "language": "en",
+    "start_time": "2025-07-16T07:45:27",
+    "duration_seconds": 46,
+    "transcript": "Salesperson: Hello, is this Robinson?\nRecipient: Yes, this is Robinson.\nSalesperson: Hi Robinson, I'm Deborah Walsh from EcoHome. I'd like to talk about our RecycleMate.\nRecipient: Hmm, I'm not sure if we need that.\nSalesperson: Actually, RecycleMate can help you save costs and improve efficiency. It's perfect for businesses like yours.\nRecipient: Sounds interesting, but we're on a tight budget.\nSalesperson: I understand. We're offering a limited-time discount. Would you like to try a free demo?\nRecipient: Maybe later. We're just not ready now.\nSalesperson: No worries, Robinson. Thanks for your time!"
+  },
+  {
+    "call_id": "9b4df71c-8433-4f5b-8451-bbd6aa08ee66",
+    "agent_id": "1d76ee53",
+    "customer_id": "ace082c4",
+    "language": "en",
+    "start_time": "2025-07-26T07:28:09",
+    "duration_seconds": 35,
+    "transcript": "Salesperson: Hi, is this Monroe?\nRecipient: Yes, who's this?\nSalesperson: I'm Jackie Moore from Brita. I'm calling to introduce our new HydroBooster.\nRecipient: Oh, what's special about it?\nSalesperson: It's eco-friendly and cost-efficient. Great for daily use.\nRecipient: That sounds useful. What's the price?\nSalesperson: It normally sells at $55, but we have a 15% discount.\nRecipient: Cool. I'll take one.\nSalesperson: Awesome! Your order is being processed. Thank you, Monroe!"
+  },
+  {
+    "call_id": "b21418c1-e60f-440e-9d18-c5f29a71073d",
+    "agent_id": "01b2fa2a",
+    "customer_id": "4c195b2f",
+    "language": "en",
+    "start_time": "2025-07-18T15:42:54",
+    "duration_seconds": 36,
+    "transcript": "Salesperson: Hi, is this Zimmerman?\nRecipient: Yes, who's this?\nSalesperson: I'm Walter Jimenez from HydroPure. I'm calling to introduce our new SmartWater Bottle.\nRecipient: Oh, what's special about it?\nSalesperson: It's eco-friendly and cost-efficient. Great for daily use.\nRecipient: That sounds useful. What's the price?\nSalesperson: It normally sells at $40, but we have a 15% discount.\nRecipient: Cool. I'll take one.\nSalesperson: Awesome! Your order is being processed. Thank you, Zimmerman!"
+  },
+  {
+    "call_id": "d8bf57f3-68f6-4ed7-8b32-cbd6944a4b76",
+    "agent_id": "8b6eaaf6",
+    "customer_id": "525159f7",
+    "language": "en",
+    "start_time": "2025-07-09T17:43:19",
+    "duration_seconds": 46,
+    "transcript": "Salesperson: Hello, is this Dennis?\nRecipient: Yes, this is Dennis.\nSalesperson: Hi Dennis, I'm Melanie Griffin from Brita. I'd like to talk about our RecycleMate.\nRecipient: Hmm, I'm not sure if we need that.\nSalesperson: Actually, RecycleMate can help you save costs and improve efficiency. It's perfect for businesses like yours.\nRecipient: Sounds interesting, but we're on a tight budget.\nSalesperson: I understand. We're offering a limited-time discount. Would you like to try a free demo?\nRecipient: Maybe later. We're just not ready now.\nSalesperson: No worries, Dennis. Thanks for your time!"
+  },
+  {
+    "call_id": "5d997554-6975-415f-9647-a960359c94f0",
+    "agent_id": "0ba979df",
+    "customer_id": "182a98f0",
+    "language": "en",
+    "start_time": "2025-06-15T11:49:59",
+    "duration_seconds": 36,
+    "transcript": "Salesperson: Hi, is this Morris?\nRecipient: Yes, who's this?\nSalesperson: I'm Kristen Francis from Brita. I'm calling to introduce our new AirFilter Pro.\nRecipient: Oh, what's special about it?\nSalesperson: It's eco-friendly and cost-efficient. Great for daily use.\nRecipient: That sounds useful. What's the price?\nSalesperson: It normally sells at $64, but we have a 5% discount.\nRecipient: Cool. I'll take one.\nSalesperson: Awesome! Your order is being processed. Thank you, Morris!"
+  },
+  {
+    "call_id": "8c926de3-20f3-42f1-8770-3d8e87bebc54",
+    "agent_id": "0e76d317",
+    "customer_id": "c7a98722",
+    "language": "en",
+    "start_time": "2025-07-21T13:55:08",
+    "duration_seconds": 36,
+    "transcript": "Salesperson: Hi, is this Cook?\nRecipient: Yes, who's this?\nSalesperson: I'm Tricia Stevens from SmartClean. I'm calling to introduce our new AirFilter Pro.\nRecipient: Oh, what's special about it?\nSalesperson: It's eco-friendly and cost-efficient. Great for daily use.\nRecipient: That sounds useful. What's the price?\nSalesperson: It normally sells at $59, but we have a 10% discount.\nRecipient: Cool. I'll take one.\nSalesperson: Awesome! Your order is being processed. Thank you, Cook!"
+  },
+  {
+    "call_id": "c3e40276-6968-4005-895d-72a7fc0cc5f6",
+    "agent_id": "300d5d60",
+    "customer_id": "bd2fa6c8",
+    "language": "en",
+    "start_time": "2025-07-16T05:44:14",
+    "duration_seconds": 36,
+    "transcript": "Salesperson: Hi, is this Smith?\nRecipient: Yes, who's this?\nSalesperson: I'm Monica Rogers from HydroPure. I'm calling to introduce our new AirFilter Pro.\nRecipient: Oh, what's special about it?\nSalesperson: It's eco-friendly and cost-efficient. Great for daily use.\nRecipient: That sounds useful. What's the price?\nSalesperson: It normally sells at $52, but we have a 15% discount.\nRecipient: Cool. I'll take one.\nSalesperson: Awesome! Your order is being processed. Thank you, Smith!"
+  },
+  {
+    "call_id": "7b975c4f-ea63-4238-9e76-3b167a586be5",
+    "agent_id": "eb4ea3ec",
+    "customer_id": "3c3639a5",
+    "language": "en",
+    "start_time": "2025-07-03T05:53:56",
+    "duration_seconds": 36,
+    "transcript": "Salesperson: Hi, is this Zamora?\nRecipient: Yes, who's this?\nSalesperson: I'm Tiffany Grimes from HydroPure. I'm calling to introduce our new AirFilter Pro.\nRecipient: Oh, what's special about it?\nSalesperson: It's eco-friendly and cost-efficient. Great for daily use.\nRecipient: That sounds useful. What's the price?\nSalesperson: It normally sells at $37, but we have a 5% discount.\nRecipient: Cool. I'll take one.\nSalesperson: Awesome! Your order is being processed. Thank you, Zamora!"
+  },
+  {
+    "call_id": "15996327-f3ba-4697-b41e-75d52a75551b",
+    "agent_id": "2bd1632b",
+    "customer_id": "390c9d0c",
+    "language": "en",
+    "start_time": "2025-06-07T11:30:38",
+    "duration_seconds": 47,
+    "transcript": "Salesperson: Hello, is this Perkins?\nRecipient: Yes, this is Perkins.\nSalesperson: Hi Perkins, I'm Meredith David from EcoHome. I'd like to talk about our SmartWater Bottle.\nRecipient: Hmm, I'm not sure if we need that.\nSalesperson: Actually, SmartWater Bottle can help you save costs and improve efficiency. It's perfect for businesses like yours.\nRecipient: Sounds interesting, but we're on a tight budget.\nSalesperson: I understand. We're offering a limited-time discount. Would you like to try a free demo?\nRecipient: Maybe later. We're just not ready now.\nSalesperson: No worries, Perkins. Thanks for your time!"
+  },
+  {
+    "call_id": "72a29f33-6f6d-4734-b770-ca42e0252f16",
+    "agent_id": "bbc1246e",
+    "customer_id": "fa17ab19",
+    "language": "en",
+    "start_time": "2025-06-20T17:52:52",
+    "duration_seconds": 36,
+    "transcript": "Salesperson: Hi, is this Walsh?\nRecipient: Yes, who's this?\nSalesperson: I'm Sharon Jimenez MD from SmartClean. I'm calling to introduce our new RecycleMate.\nRecipient: Oh, what's special about it?\nSalesperson: It's eco-friendly and cost-efficient. Great for daily use.\nRecipient: That sounds useful. What's the price?\nSalesperson: It normally sells at $33, but we have a 5% discount.\nRecipient: Cool. I'll take one.\nSalesperson: Awesome! Your order is being processed. Thank you, Walsh!"
+  },
+  {
+    "call_id": "73d193f9-b8c6-4170-b1bf-76f03c846607",
+    "agent_id": "0b1de773",
+    "customer_id": "6182448b",
+    "language": "en",
+    "start_time": "2025-07-16T14:49:28",
+    "duration_seconds": 35,
+    "transcript": "Salesperson: Hi, is this Lawrence?\nRecipient: Yes, who's this?\nSalesperson: I'm Dennis Morgan from Brita. I'm calling to introduce our new EcoCycle.\nRecipient: Oh, what's special about it?\nSalesperson: It's eco-friendly and cost-efficient. Great for daily use.\nRecipient: That sounds useful. What's the price?\nSalesperson: It normally sells at $67, but we have a 15% discount.\nRecipient: Cool. I'll take one.\nSalesperson: Awesome! Your order is being processed. Thank you, Lawrence!"
+  },
+  {
+    "call_id": "91259331-243c-450d-8c50-f781e4c1b575",
+    "agent_id": "2ea0b386",
+    "customer_id": "0025df60",
+    "language": "en",
+    "start_time": "2025-06-09T15:39:03",
+    "duration_seconds": 46,
+    "transcript": "Salesperson: Hello, is this Morgan?\nRecipient: Yes, this is Morgan.\nSalesperson: Hi Morgan, I'm Peter Sanford from Brita. I'd like to talk about our EcoCycle.\nRecipient: Hmm, I'm not sure if we need that.\nSalesperson: Actually, EcoCycle can help you save costs and improve efficiency. It's perfect for businesses like yours.\nRecipient: Sounds interesting, but we're on a tight budget.\nSalesperson: I understand. We're offering a limited-time discount. Would you like to try a free demo?\nRecipient: Maybe later. We're just not ready now.\nSalesperson: No worries, Morgan. Thanks for your time!"
+  },
+  {
+    "call_id": "5bdd869e-c432-43f9-bc53-f525c427c8f6",
+    "agent_id": "5c079dc5",
+    "customer_id": "3bd54816",
+    "language": "en",
+    "start_time": "2025-06-08T09:40:24",
+    "duration_seconds": 35,
+    "transcript": "Salesperson: Hi, is this Walker?\nRecipient: Yes, who's this?\nSalesperson: I'm Emily Sanders from SmartClean. I'm calling to introduce our new HydroBooster.\nRecipient: Oh, what's special about it?\nSalesperson: It's eco-friendly and cost-efficient. Great for daily use.\nRecipient: That sounds useful. What's the price?\nSalesperson: It normally sells at $44, but we have a 10% discount.\nRecipient: Cool. I'll take one.\nSalesperson: Awesome! Your order is being processed. Thank you, Walker!"
+  },
+  {
+    "call_id": "e0b11c2a-8423-4628-bcdb-63b2539fa82f",
+    "agent_id": "725e2788",
+    "customer_id": "ac58fc1d",
+    "language": "en",
+    "start_time": "2025-07-11T06:30:14",
+    "duration_seconds": 35,
+    "transcript": "Salesperson: Hi, is this Horn?\nRecipient: Yes, who's this?\nSalesperson: I'm Cynthia Avery from HydroPure. I'm calling to introduce our new HydroBooster.\nRecipient: Oh, what's special about it?\nSalesperson: It's eco-friendly and cost-efficient. Great for daily use.\nRecipient: That sounds useful. What's the price?\nSalesperson: It normally sells at $34, but we have a 5% discount.\nRecipient: Cool. I'll take one.\nSalesperson: Awesome! Your order is being processed. Thank you, Horn!"
+  },
+  {
+    "call_id": "799b5951-b305-4dc2-82c2-a23923333122",
+    "agent_id": "31a49804",
+    "customer_id": "1caf28dd",
+    "language": "en",
+    "start_time": "2025-07-30T16:35:12",
+    "duration_seconds": 36,
+    "transcript": "Salesperson: Hi, is this Castillo?\nRecipient: Yes, who's this?\nSalesperson: I'm Patricia Chambers from GreenTech Inc.. I'm calling to introduce our new HydroBooster.\nRecipient: Oh, what's special about it?\nSalesperson: It's eco-friendly and cost-efficient. Great for daily use.\nRecipient: That sounds useful. What's the price?\nSalesperson: It normally sells at $39, but we have a 5% discount.\nRecipient: Cool. I'll take one.\nSalesperson: Awesome! Your order is being processed. Thank you, Castillo!"
+  },
+  {
+    "call_id": "1182aa64-72c5-47bb-b7cf-74adb9a9919f",
+    "agent_id": "4067ceb7",
+    "customer_id": "fc496044",
+    "language": "en",
+    "start_time": "2025-06-19T07:18:20",
+    "duration_seconds": 35,
+    "transcript": "Salesperson: Hi, is this Wheeler?\nRecipient: Yes, who's this?\nSalesperson: I'm Caleb Martinez from HydroPure. I'm calling to introduce our new HydroBooster.\nRecipient: Oh, what's special about it?\nSalesperson: It's eco-friendly and cost-efficient. Great for daily use.\nRecipient: That sounds useful. What's the price?\nSalesperson: It normally sells at $64, but we have a 5% discount.\nRecipient: Cool. I'll take one.\nSalesperson: Awesome! Your order is being processed. Thank you, Wheeler!"
+  },
+  {
+    "call_id": "6ab40ad1-f0e6-4373-9911-31073e62926d",
+    "agent_id": "b6995caf",
+    "customer_id": "e2ab5799",
+    "language": "en",
+    "start_time": "2025-07-19T17:44:14",
+    "duration_seconds": 36,
+    "transcript": "Salesperson: Hi, is this Rodriguez?\nRecipient: Yes, who's this?\nSalesperson: I'm Michael Baldwin from GreenTech Inc.. I'm calling to introduce our new RecycleMate.\nRecipient: Oh, what's special about it?\nSalesperson: It's eco-friendly and cost-efficient. Great for daily use.\nRecipient: That sounds useful. What's the price?\nSalesperson: It normally sells at $41, but we have a 10% discount.\nRecipient: Cool. I'll take one.\nSalesperson: Awesome! Your order is being processed. Thank you, Rodriguez!"
+  },
+  {
+    "call_id": "5796a851-d6f1-4fe8-828f-22a257631f18",
+    "agent_id": "96f9ad9d",
+    "customer_id": "6ef7690d",
+    "language": "en",
+    "start_time": "2025-07-31T08:34:03",
+    "duration_seconds": 46,
+    "transcript": "Salesperson: Hello, is this Simpson?\nRecipient: Yes, this is Simpson.\nSalesperson: Hi Simpson, I'm Ronald Garcia from HydroPure. I'd like to talk about our RecycleMate.\nRecipient: Hmm, I'm not sure if we need that.\nSalesperson: Actually, RecycleMate can help you save costs and improve efficiency. It's perfect for businesses like yours.\nRecipient: Sounds interesting, but we're on a tight budget.\nSalesperson: I understand. We're offering a limited-time discount. Would you like to try a free demo?\nRecipient: Maybe later. We're just not ready now.\nSalesperson: No worries, Simpson. Thanks for your time!"
+  },
+  {
+    "call_id": "95ad20c6-4c1a-4033-837d-1000e5fda786",
+    "agent_id": "53b25322",
+    "customer_id": "0a4b137c",
+    "language": "en",
+    "start_time": "2025-06-16T15:31:33",
+    "duration_seconds": 46,
+    "transcript": "Salesperson: Hello, is this Moore?\nRecipient: Yes, this is Moore.\nSalesperson: Hi Moore, I'm Thomas Thomas from GreenTech Inc.. I'd like to talk about our HydroBooster.\nRecipient: Hmm, I'm not sure if we need that.\nSalesperson: Actually, HydroBooster can help you save costs and improve efficiency. It's perfect for businesses like yours.\nRecipient: Sounds interesting, but we're on a tight budget.\nSalesperson: I understand. We're offering a limited-time discount. Would you like to try a free demo?\nRecipient: Maybe later. We're just not ready now.\nSalesperson: No worries, Moore. Thanks for your time!"
+  },
+  {
+    "call_id": "b6b31c94-2f64-4103-941f-1e313ccf966c",
+    "agent_id": "bd970c51",
+    "customer_id": "a9bb83d1",
+    "language": "en",
+    "start_time": "2025-06-30T04:53:20",
+    "duration_seconds": 46,
+    "transcript": "Salesperson: Hello, is this Hebert?\nRecipient: Yes, this is Hebert.\nSalesperson: Hi Hebert, I'm Stephen Phillips from EcoHome. I'd like to talk about our HydroBooster.\nRecipient: Hmm, I'm not sure if we need that.\nSalesperson: Actually, HydroBooster can help you save costs and improve efficiency. It's perfect for businesses like yours.\nRecipient: Sounds interesting, but we're on a tight budget.\nSalesperson: I understand. We're offering a limited-time discount. Would you like to try a free demo?\nRecipient: Maybe later. We're just not ready now.\nSalesperson: No worries, Hebert. Thanks for your time!"
+  },
+  {
+    "call_id": "6e97885b-4fbb-46c7-bb29-85e52e70bbf2",
+    "agent_id": "81245fdd",
+    "customer_id": "4fe2e555",
+    "language": "en",
+    "start_time": "2025-07-01T18:28:10",
+    "duration_seconds": 35,
+    "transcript": "Salesperson: Hi, is this Richardson?\nRecipient: Yes, who's this?\nSalesperson: I'm Sharon Lin from EcoHome. I'm calling to introduce our new EcoCycle.\nRecipient: Oh, what's special about it?\nSalesperson: It's eco-friendly and cost-efficient. Great for daily use.\nRecipient: That sounds useful. What's the price?\nSalesperson: It normally sells at $46, but we have a 5% discount.\nRecipient: Cool. I'll take one.\nSalesperson: Awesome! Your order is being processed. Thank you, Richardson!"
+  },
+  {
+    "call_id": "5b675523-8104-4a43-aa36-4078c002f7d4",
+    "agent_id": "742d9be8",
+    "customer_id": "b43ca232",
+    "language": "en",
+    "start_time": "2025-07-01T01:43:17",
+    "duration_seconds": 36,
+    "transcript": "Salesperson: Hi, is this Tucker?\nRecipient: Yes, who's this?\nSalesperson: I'm Andrea Sanders from SmartClean. I'm calling to introduce our new AirFilter Pro.\nRecipient: Oh, what's special about it?\nSalesperson: It's eco-friendly and cost-efficient. Great for daily use.\nRecipient: That sounds useful. What's the price?\nSalesperson: It normally sells at $35, but we have a 5% discount.\nRecipient: Cool. I'll take one.\nSalesperson: Awesome! Your order is being processed. Thank you, Tucker!"
+  },
+  {
+    "call_id": "3df0ffc2-7a0e-4764-a0c7-7bf0550ca25a",
+    "agent_id": "f314acb5",
+    "customer_id": "cf05384c",
+    "language": "en",
+    "start_time": "2025-07-04T05:57:07",
+    "duration_seconds": 36,
+    "transcript": "Salesperson: Hi, is this Mueller?\nRecipient: Yes, who's this?\nSalesperson: I'm Kristin Blanchard from GreenTech Inc.. I'm calling to introduce our new SmartWater Bottle.\nRecipient: Oh, what's special about it?\nSalesperson: It's eco-friendly and cost-efficient. Great for daily use.\nRecipient: That sounds useful. What's the price?\nSalesperson: It normally sells at $62, but we have a 15% discount.\nRecipient: Cool. I'll take one.\nSalesperson: Awesome! Your order is being processed. Thank you, Mueller!"
+  },
+  {
+    "call_id": "5024458d-40ac-4c84-acd8-d7ee40a6c800",
+    "agent_id": "ab19f01c",
+    "customer_id": "1444f045",
+    "language": "en",
+    "start_time": "2025-07-12T23:48:17",
+    "duration_seconds": 46,
+    "transcript": "Salesperson: Hello, is this Duncan?\nRecipient: Yes, this is Duncan.\nSalesperson: Hi Duncan, I'm Lauren Underwood from EcoHome. I'd like to talk about our HydroBooster.\nRecipient: Hmm, I'm not sure if we need that.\nSalesperson: Actually, HydroBooster can help you save costs and improve efficiency. It's perfect for businesses like yours.\nRecipient: Sounds interesting, but we're on a tight budget.\nSalesperson: I understand. We're offering a limited-time discount. Would you like to try a free demo?\nRecipient: Maybe later. We're just not ready now.\nSalesperson: No worries, Duncan. Thanks for your time!"
+  },
+  {
+    "call_id": "4b8a8e19-5ac1-4046-9444-f8948c1a5e64",
+    "agent_id": "b2400571",
+    "customer_id": "02bf13e6",
+    "language": "en",
+    "start_time": "2025-06-08T02:52:28",
+    "duration_seconds": 36,
+    "transcript": "Salesperson: Hi, is this Williams?\nRecipient: Yes, who's this?\nSalesperson: I'm Renee Crawford from EcoHome. I'm calling to introduce our new AirFilter Pro.\nRecipient: Oh, what's special about it?\nSalesperson: It's eco-friendly and cost-efficient. Great for daily use.\nRecipient: That sounds useful. What's the price?\nSalesperson: It normally sells at $44, but we have a 5% discount.\nRecipient: Cool. I'll take one.\nSalesperson: Awesome! Your order is being processed. Thank you, Williams!"
+  },
+  {
+    "call_id": "98f4503b-aa5d-4fcf-b3d3-b432805e541e",
+    "agent_id": "37739fe7",
+    "customer_id": "7af49633",
+    "language": "en",
+    "start_time": "2025-07-31T08:41:26",
+    "duration_seconds": 46,
+    "transcript": "Salesperson: Hello, is this Sullivan?\nRecipient: Yes, this is Sullivan.\nSalesperson: Hi Sullivan, I'm Ray Todd from SmartClean. I'd like to talk about our HydroBooster.\nRecipient: Hmm, I'm not sure if we need that.\nSalesperson: Actually, HydroBooster can help you save costs and improve efficiency. It's perfect for businesses like yours.\nRecipient: Sounds interesting, but we're on a tight budget.\nSalesperson: I understand. We're offering a limited-time discount. Would you like to try a free demo?\nRecipient: Maybe later. We're just not ready now.\nSalesperson: No worries, Sullivan. Thanks for your time!"
+  },
+  {
+    "call_id": "b4a8ee39-0e8f-466b-91c9-0e350f199377",
+    "agent_id": "5fef79b5",
+    "customer_id": "9b73d30d",
+    "language": "en",
+    "start_time": "2025-07-16T05:28:36",
+    "duration_seconds": 46,
+    "transcript": "Salesperson: Hello, is this Hamilton?\nRecipient: Yes, this is Hamilton.\nSalesperson: Hi Hamilton, I'm Danny Franklin from SmartClean. I'd like to talk about our HydroBooster.\nRecipient: Hmm, I'm not sure if we need that.\nSalesperson: Actually, HydroBooster can help you save costs and improve efficiency. It's perfect for businesses like yours.\nRecipient: Sounds interesting, but we're on a tight budget.\nSalesperson: I understand. We're offering a limited-time discount. Would you like to try a free demo?\nRecipient: Maybe later. We're just not ready now.\nSalesperson: No worries, Hamilton. Thanks for your time!"
+  },
+  {
+    "call_id": "3db4c9f3-6cce-4c3a-a9e3-457c983e59ad",
+    "agent_id": "c3ce990e",
+    "customer_id": "28b41fc7",
+    "language": "en",
+    "start_time": "2025-07-17T05:42:07",
+    "duration_seconds": 46,
+    "transcript": "Salesperson: Hello, is this Duran?\nRecipient: Yes, this is Duran.\nSalesperson: Hi Duran, I'm James Yang from SmartClean. I'd like to talk about our HydroBooster.\nRecipient: Hmm, I'm not sure if we need that.\nSalesperson: Actually, HydroBooster can help you save costs and improve efficiency. It's perfect for businesses like yours.\nRecipient: Sounds interesting, but we're on a tight budget.\nSalesperson: I understand. We're offering a limited-time discount. Would you like to try a free demo?\nRecipient: Maybe later. We're just not ready now.\nSalesperson: No worries, Duran. Thanks for your time!"
+  },
+  {
+    "call_id": "a6bf2d7b-7a11-41c5-9e36-98a310d632e2",
+    "agent_id": "5d0d2176",
+    "customer_id": "68c8ccf3",
+    "language": "en",
+    "start_time": "2025-07-03T08:26:14",
+    "duration_seconds": 36,
+    "transcript": "Salesperson: Hi, is this Rivera?\nRecipient: Yes, who's this?\nSalesperson: I'm Mr. Daniel Lee from SmartClean. I'm calling to introduce our new HydroBooster.\nRecipient: Oh, what's special about it?\nSalesperson: It's eco-friendly and cost-efficient. Great for daily use.\nRecipient: That sounds useful. What's the price?\nSalesperson: It normally sells at $42, but we have a 10% discount.\nRecipient: Cool. I'll take one.\nSalesperson: Awesome! Your order is being processed. Thank you, Rivera!"
+  },
+  {
+    "call_id": "90fc2d70-3caa-4e8d-aa6c-96239afe32a8",
+    "agent_id": "94d96b43",
+    "customer_id": "2259a7d4",
+    "language": "en",
+    "start_time": "2025-07-22T17:57:16",
+    "duration_seconds": 46,
+    "transcript": "Salesperson: Hello, is this Austin?\nRecipient: Yes, this is Austin.\nSalesperson: Hi Austin, I'm John Campbell from Brita. I'd like to talk about our HydroBooster.\nRecipient: Hmm, I'm not sure if we need that.\nSalesperson: Actually, HydroBooster can help you save costs and improve efficiency. It's perfect for businesses like yours.\nRecipient: Sounds interesting, but we're on a tight budget.\nSalesperson: I understand. We're offering a limited-time discount. Would you like to try a free demo?\nRecipient: Maybe later. We're just not ready now.\nSalesperson: No worries, Austin. Thanks for your time!"
+  },
+  {
+    "call_id": "39a4bd9c-833e-4998-ac33-cae33f2461be",
+    "agent_id": "13e1cb9b",
+    "customer_id": "434f495b",
+    "language": "en",
+    "start_time": "2025-06-24T01:09:38",
+    "duration_seconds": 35,
+    "transcript": "Salesperson: Hi, is this Swanson?\nRecipient: Yes, who's this?\nSalesperson: I'm Justin Reyes from SmartClean. I'm calling to introduce our new EcoCycle.\nRecipient: Oh, what's special about it?\nSalesperson: It's eco-friendly and cost-efficient. Great for daily use.\nRecipient: That sounds useful. What's the price?\nSalesperson: It normally sells at $55, but we have a 10% discount.\nRecipient: Cool. I'll take one.\nSalesperson: Awesome! Your order is being processed. Thank you, Swanson!"
+  },
+  {
+    "call_id": "27e6bf73-8ed8-4888-9852-9c64d7cf6691",
+    "agent_id": "e4188db7",
+    "customer_id": "d3939427",
+    "language": "en",
+    "start_time": "2025-07-05T08:52:51",
+    "duration_seconds": 47,
+    "transcript": "Salesperson: Hello, is this Brooks?\nRecipient: Yes, this is Brooks.\nSalesperson: Hi Brooks, I'm David Gonzalez from HydroPure. I'd like to talk about our AirFilter Pro.\nRecipient: Hmm, I'm not sure if we need that.\nSalesperson: Actually, AirFilter Pro can help you save costs and improve efficiency. It's perfect for businesses like yours.\nRecipient: Sounds interesting, but we're on a tight budget.\nSalesperson: I understand. We're offering a limited-time discount. Would you like to try a free demo?\nRecipient: Maybe later. We're just not ready now.\nSalesperson: No worries, Brooks. Thanks for your time!"
+  },
+  {
+    "call_id": "38520dfe-678b-4c9b-bbb0-03ccbf6ed436",
+    "agent_id": "850af266",
+    "customer_id": "b5a11433",
+    "language": "en",
+    "start_time": "2025-06-19T18:47:56",
+    "duration_seconds": 47,
+    "transcript": "Salesperson: Hello, is this Anderson?\nRecipient: Yes, this is Anderson.\nSalesperson: Hi Anderson, I'm Patricia Holland from EcoHome. I'd like to talk about our AirFilter Pro.\nRecipient: Hmm, I'm not sure if we need that.\nSalesperson: Actually, AirFilter Pro can help you save costs and improve efficiency. It's perfect for businesses like yours.\nRecipient: Sounds interesting, but we're on a tight budget.\nSalesperson: I understand. We're offering a limited-time discount. Would you like to try a free demo?\nRecipient: Maybe later. We're just not ready now.\nSalesperson: No worries, Anderson. Thanks for your time!"
+  },
+  {
+    "call_id": "bf423823-c6b0-4371-802b-529c0a7841ee",
+    "agent_id": "849942e4",
+    "customer_id": "184f08c7",
+    "language": "en",
+    "start_time": "2025-06-15T07:07:31",
+    "duration_seconds": 36,
+    "transcript": "Salesperson: Hi, is this Duarte?\nRecipient: Yes, who's this?\nSalesperson: I'm Brian Brennan from GreenTech Inc.. I'm calling to introduce our new RecycleMate.\nRecipient: Oh, what's special about it?\nSalesperson: It's eco-friendly and cost-efficient. Great for daily use.\nRecipient: That sounds useful. What's the price?\nSalesperson: It normally sells at $49, but we have a 10% discount.\nRecipient: Cool. I'll take one.\nSalesperson: Awesome! Your order is being processed. Thank you, Duarte!"
+  },
+  {
+    "call_id": "b67719cf-4e0d-47d0-bdf6-cef34b486b4b",
+    "agent_id": "05f683d4",
+    "customer_id": "49a3d1e8",
+    "language": "en",
+    "start_time": "2025-07-06T14:35:03",
+    "duration_seconds": 46,
+    "transcript": "Salesperson: Hello, is this Hatfield?\nRecipient: Yes, this is Hatfield.\nSalesperson: Hi Hatfield, I'm Bryan Marshall from GreenTech Inc.. I'd like to talk about our HydroBooster.\nRecipient: Hmm, I'm not sure if we need that.\nSalesperson: Actually, HydroBooster can help you save costs and improve efficiency. It's perfect for businesses like yours.\nRecipient: Sounds interesting, but we're on a tight budget.\nSalesperson: I understand. We're offering a limited-time discount. Would you like to try a free demo?\nRecipient: Maybe later. We're just not ready now.\nSalesperson: No worries, Hatfield. Thanks for your time!"
+  },
+  {
+    "call_id": "c29c141a-2711-4c22-af83-32287825ffd6",
+    "agent_id": "f187c2b6",
+    "customer_id": "ce39a207",
+    "language": "en",
+    "start_time": "2025-06-14T21:26:34",
+    "duration_seconds": 35,
+    "transcript": "Salesperson: Hi, is this Mayo?\nRecipient: Yes, who's this?\nSalesperson: I'm Jessica Bradford from Brita. I'm calling to introduce our new HydroBooster.\nRecipient: Oh, what's special about it?\nSalesperson: It's eco-friendly and cost-efficient. Great for daily use.\nRecipient: That sounds useful. What's the price?\nSalesperson: It normally sells at $49, but we have a 15% discount.\nRecipient: Cool. I'll take one.\nSalesperson: Awesome! Your order is being processed. Thank you, Mayo!"
+  },
+  {
+    "call_id": "4977cdf2-0fe3-499d-946c-49b78eacd733",
+    "agent_id": "8e46a6ff",
+    "customer_id": "be0c2220",
+    "language": "en",
+    "start_time": "2025-07-20T08:01:16",
+    "duration_seconds": 46,
+    "transcript": "Salesperson: Hello, is this Carter?\nRecipient: Yes, this is Carter.\nSalesperson: Hi Carter, I'm Stephen Randall from Brita. I'd like to talk about our HydroBooster.\nRecipient: Hmm, I'm not sure if we need that.\nSalesperson: Actually, HydroBooster can help you save costs and improve efficiency. It's perfect for businesses like yours.\nRecipient: Sounds interesting, but we're on a tight budget.\nSalesperson: I understand. We're offering a limited-time discount. Would you like to try a free demo?\nRecipient: Maybe later. We're just not ready now.\nSalesperson: No worries, Carter. Thanks for your time!"
+  },
+  {
+    "call_id": "87878776-4393-448e-a44f-b0ad2aff03b2",
+    "agent_id": "a463567d",
+    "customer_id": "5b15b33a",
+    "language": "en",
+    "start_time": "2025-07-06T20:29:29",
+    "duration_seconds": 47,
+    "transcript": "Salesperson: Hello, is this Moore?\nRecipient: Yes, this is Moore.\nSalesperson: Hi Moore, I'm Robert Vasquez from SmartClean. I'd like to talk about our AirFilter Pro.\nRecipient: Hmm, I'm not sure if we need that.\nSalesperson: Actually, AirFilter Pro can help you save costs and improve efficiency. It's perfect for businesses like yours.\nRecipient: Sounds interesting, but we're on a tight budget.\nSalesperson: I understand. We're offering a limited-time discount. Would you like to try a free demo?\nRecipient: Maybe later. We're just not ready now.\nSalesperson: No worries, Moore. Thanks for your time!"
+  },
+  {
+    "call_id": "0e96dfab-bba6-41e6-b438-9c0e7e121300",
+    "agent_id": "e53f37bc",
+    "customer_id": "ef7934f8",
+    "language": "en",
+    "start_time": "2025-06-23T16:21:04",
+    "duration_seconds": 46,
+    "transcript": "Salesperson: Hello, is this Gould?\nRecipient: Yes, this is Gould.\nSalesperson: Hi Gould, I'm Jonathan Alvarez MD from Brita. I'd like to talk about our HydroBooster.\nRecipient: Hmm, I'm not sure if we need that.\nSalesperson: Actually, HydroBooster can help you save costs and improve efficiency. It's perfect for businesses like yours.\nRecipient: Sounds interesting, but we're on a tight budget.\nSalesperson: I understand. We're offering a limited-time discount. Would you like to try a free demo?\nRecipient: Maybe later. We're just not ready now.\nSalesperson: No worries, Gould. Thanks for your time!"
+  },
+  {
+    "call_id": "64e0e5b3-8c9f-4b8a-a6d2-60ef93c19d1f",
+    "agent_id": "7a55fd4e",
+    "customer_id": "6139e057",
+    "language": "en",
+    "start_time": "2025-07-06T00:50:41",
+    "duration_seconds": 47,
+    "transcript": "Salesperson: Hello, is this Cox?\nRecipient: Yes, this is Cox.\nSalesperson: Hi Cox, I'm Elijah Ware from Brita. I'd like to talk about our AirFilter Pro.\nRecipient: Hmm, I'm not sure if we need that.\nSalesperson: Actually, AirFilter Pro can help you save costs and improve efficiency. It's perfect for businesses like yours.\nRecipient: Sounds interesting, but we're on a tight budget.\nSalesperson: I understand. We're offering a limited-time discount. Would you like to try a free demo?\nRecipient: Maybe later. We're just not ready now.\nSalesperson: No worries, Cox. Thanks for your time!"
+  },
+  {
+    "call_id": "7238736a-e517-4b17-a35f-783c08dbbd87",
+    "agent_id": "1e83638c",
+    "customer_id": "cd3a8749",
+    "language": "en",
+    "start_time": "2025-07-06T11:21:14",
+    "duration_seconds": 47,
+    "transcript": "Salesperson: Hello, is this Frey?\nRecipient: Yes, this is Frey.\nSalesperson: Hi Frey, I'm Kenneth Fischer from EcoHome. I'd like to talk about our AirFilter Pro.\nRecipient: Hmm, I'm not sure if we need that.\nSalesperson: Actually, AirFilter Pro can help you save costs and improve efficiency. It's perfect for businesses like yours.\nRecipient: Sounds interesting, but we're on a tight budget.\nSalesperson: I understand. We're offering a limited-time discount. Would you like to try a free demo?\nRecipient: Maybe later. We're just not ready now.\nSalesperson: No worries, Frey. Thanks for your time!"
+  },
+  {
+    "call_id": "f25a3785-1f2e-4502-ba48-30ea8017444e",
+    "agent_id": "382fcdec",
+    "customer_id": "fa5eee3d",
+    "language": "en",
+    "start_time": "2025-06-29T23:48:57",
+    "duration_seconds": 47,
+    "transcript": "Salesperson: Hello, is this Perry?\nRecipient: Yes, this is Perry.\nSalesperson: Hi Perry, I'm Casey Harrell from SmartClean. I'd like to talk about our SmartWater Bottle.\nRecipient: Hmm, I'm not sure if we need that.\nSalesperson: Actually, SmartWater Bottle can help you save costs and improve efficiency. It's perfect for businesses like yours.\nRecipient: Sounds interesting, but we're on a tight budget.\nSalesperson: I understand. We're offering a limited-time discount. Would you like to try a free demo?\nRecipient: Maybe later. We're just not ready now.\nSalesperson: No worries, Perry. Thanks for your time!"
+  },
+  {
+    "call_id": "9a6b9d87-94d3-4636-8898-13e443c8f034",
+    "agent_id": "a648f7c3",
+    "customer_id": "78dc4530",
+    "language": "en",
+    "start_time": "2025-06-09T17:34:34",
+    "duration_seconds": 36,
+    "transcript": "Salesperson: Hi, is this Salas?\nRecipient: Yes, who's this?\nSalesperson: I'm Alicia Martinez from EcoHome. I'm calling to introduce our new AirFilter Pro.\nRecipient: Oh, what's special about it?\nSalesperson: It's eco-friendly and cost-efficient. Great for daily use.\nRecipient: That sounds useful. What's the price?\nSalesperson: It normally sells at $66, but we have a 10% discount.\nRecipient: Cool. I'll take one.\nSalesperson: Awesome! Your order is being processed. Thank you, Salas!"
+  },
+  {
+    "call_id": "34a2b5e6-d65e-4dc6-a662-7db2ed3fc855",
+    "agent_id": "26957ea9",
+    "customer_id": "b10ccd25",
+    "language": "en",
+    "start_time": "2025-07-03T23:33:00",
+    "duration_seconds": 36,
+    "transcript": "Salesperson: Hi, is this Martin?\nRecipient: Yes, who's this?\nSalesperson: I'm Aaron Mendoza from HydroPure. I'm calling to introduce our new AirFilter Pro.\nRecipient: Oh, what's special about it?\nSalesperson: It's eco-friendly and cost-efficient. Great for daily use.\nRecipient: That sounds useful. What's the price?\nSalesperson: It normally sells at $45, but we have a 10% discount.\nRecipient: Cool. I'll take one.\nSalesperson: Awesome! Your order is being processed. Thank you, Martin!"
+  },
+  {
+    "call_id": "7835c3f2-d9f3-418d-b6d9-6f7ac9ce6bd8",
+    "agent_id": "dbcd4732",
+    "customer_id": "67cb99a2",
+    "language": "en",
+    "start_time": "2025-07-26T19:16:12",
+    "duration_seconds": 35,
+    "transcript": "Salesperson: Hi, is this Hanson?\nRecipient: Yes, who's this?\nSalesperson: I'm Debra Robinson from Brita. I'm calling to introduce our new RecycleMate.\nRecipient: Oh, what's special about it?\nSalesperson: It's eco-friendly and cost-efficient. Great for daily use.\nRecipient: That sounds useful. What's the price?\nSalesperson: It normally sells at $41, but we have a 15% discount.\nRecipient: Cool. I'll take one.\nSalesperson: Awesome! Your order is being processed. Thank you, Hanson!"
+  },
+  {
+    "call_id": "0763792c-5ee9-4ff3-8b3a-6fac05675ae3",
+    "agent_id": "5a593675",
+    "customer_id": "301785f3",
+    "language": "en",
+    "start_time": "2025-06-06T23:41:12",
+    "duration_seconds": 35,
+    "transcript": "Salesperson: Hi, is this Reed?\nRecipient: Yes, who's this?\nSalesperson: I'm Sean Mcdaniel from Brita. I'm calling to introduce our new RecycleMate.\nRecipient: Oh, what's special about it?\nSalesperson: It's eco-friendly and cost-efficient. Great for daily use.\nRecipient: That sounds useful. What's the price?\nSalesperson: It normally sells at $43, but we have a 15% discount.\nRecipient: Cool. I'll take one.\nSalesperson: Awesome! Your order is being processed. Thank you, Reed!"
+  },
+  {
+    "call_id": "aeea639e-1e18-4895-bdcd-0e534fd290cd",
+    "agent_id": "c24b748e",
+    "customer_id": "6602ed74",
+    "language": "en",
+    "start_time": "2025-06-17T18:53:35",
+    "duration_seconds": 46,
+    "transcript": "Salesperson: Hello, is this Wilson?\nRecipient: Yes, this is Wilson.\nSalesperson: Hi Wilson, I'm Ashley Mccarthy from SmartClean. I'd like to talk about our HydroBooster.\nRecipient: Hmm, I'm not sure if we need that.\nSalesperson: Actually, HydroBooster can help you save costs and improve efficiency. It's perfect for businesses like yours.\nRecipient: Sounds interesting, but we're on a tight budget.\nSalesperson: I understand. We're offering a limited-time discount. Would you like to try a free demo?\nRecipient: Maybe later. We're just not ready now.\nSalesperson: No worries, Wilson. Thanks for your time!"
+  },
+  {
+    "call_id": "0858a0bf-9730-451b-b677-1698053077a5",
+    "agent_id": "60b75aac",
+    "customer_id": "9b5613b0",
+    "language": "en",
+    "start_time": "2025-06-20T12:52:35",
+    "duration_seconds": 47,
+    "transcript": "Salesperson: Hello, is this Carpenter?\nRecipient: Yes, this is Carpenter.\nSalesperson: Hi Carpenter, I'm Amber Brown DVM from SmartClean. I'd like to talk about our AirFilter Pro.\nRecipient: Hmm, I'm not sure if we need that.\nSalesperson: Actually, AirFilter Pro can help you save costs and improve efficiency. It's perfect for businesses like yours.\nRecipient: Sounds interesting, but we're on a tight budget.\nSalesperson: I understand. We're offering a limited-time discount. Would you like to try a free demo?\nRecipient: Maybe later. We're just not ready now.\nSalesperson: No worries, Carpenter. Thanks for your time!"
+  },
+  {
+    "call_id": "42391bba-0ab3-43d4-9169-2038faeaef96",
+    "agent_id": "fecf149c",
+    "customer_id": "80538a89",
+    "language": "en",
+    "start_time": "2025-07-07T12:03:20",
+    "duration_seconds": 46,
+    "transcript": "Salesperson: Hello, is this Harding?\nRecipient: Yes, this is Harding.\nSalesperson: Hi Harding, I'm Brittney Moran from EcoHome. I'd like to talk about our EcoCycle.\nRecipient: Hmm, I'm not sure if we need that.\nSalesperson: Actually, EcoCycle can help you save costs and improve efficiency. It's perfect for businesses like yours.\nRecipient: Sounds interesting, but we're on a tight budget.\nSalesperson: I understand. We're offering a limited-time discount. Would you like to try a free demo?\nRecipient: Maybe later. We're just not ready now.\nSalesperson: No worries, Harding. Thanks for your time!"
+  },
+  {
+    "call_id": "de553073-ed36-4c11-976c-c4b6036a9d08",
+    "agent_id": "e4af27ae",
+    "customer_id": "53c0165b",
+    "language": "en",
+    "start_time": "2025-06-18T16:09:45",
+    "duration_seconds": 36,
+    "transcript": "Salesperson: Hi, is this Edwards?\nRecipient: Yes, who's this?\nSalesperson: I'm Kristen Melendez from EcoHome. I'm calling to introduce our new SmartWater Bottle.\nRecipient: Oh, what's special about it?\nSalesperson: It's eco-friendly and cost-efficient. Great for daily use.\nRecipient: That sounds useful. What's the price?\nSalesperson: It normally sells at $64, but we have a 5% discount.\nRecipient: Cool. I'll take one.\nSalesperson: Awesome! Your order is being processed. Thank you, Edwards!"
+  },
+  {
+    "call_id": "71be5e44-2aaa-4f5c-9e80-de6b8c07c959",
+    "agent_id": "dd94276b",
+    "customer_id": "5c032680",
+    "language": "en",
+    "start_time": "2025-07-19T21:33:29",
+    "duration_seconds": 47,
+    "transcript": "Salesperson: Hello, is this Vargas?\nRecipient: Yes, this is Vargas.\nSalesperson: Hi Vargas, I'm Mary Cannon from EcoHome. I'd like to talk about our AirFilter Pro.\nRecipient: Hmm, I'm not sure if we need that.\nSalesperson: Actually, AirFilter Pro can help you save costs and improve efficiency. It's perfect for businesses like yours.\nRecipient: Sounds interesting, but we're on a tight budget.\nSalesperson: I understand. We're offering a limited-time discount. Would you like to try a free demo?\nRecipient: Maybe later. We're just not ready now.\nSalesperson: No worries, Vargas. Thanks for your time!"
+  },
+  {
+    "call_id": "7440a3a3-152a-43b0-a0f5-0e8d29fe4d2b",
+    "agent_id": "323eac38",
+    "customer_id": "7e46c510",
+    "language": "en",
+    "start_time": "2025-06-22T07:05:41",
+    "duration_seconds": 47,
+    "transcript": "Salesperson: Hello, is this Finley?\nRecipient: Yes, this is Finley.\nSalesperson: Hi Finley, I'm Melanie Williams from Brita. I'd like to talk about our SmartWater Bottle.\nRecipient: Hmm, I'm not sure if we need that.\nSalesperson: Actually, SmartWater Bottle can help you save costs and improve efficiency. It's perfect for businesses like yours.\nRecipient: Sounds interesting, but we're on a tight budget.\nSalesperson: I understand. We're offering a limited-time discount. Would you like to try a free demo?\nRecipient: Maybe later. We're just not ready now.\nSalesperson: No worries, Finley. Thanks for your time!"
+  },
+  {
+    "call_id": "89ce06a9-5ff3-4ae9-9522-79aca5b02a01",
+    "agent_id": "85476bb7",
+    "customer_id": "448ec522",
+    "language": "en",
+    "start_time": "2025-07-07T08:29:49",
+    "duration_seconds": 46,
+    "transcript": "Salesperson: Hello, is this Ramirez?\nRecipient: Yes, this is Ramirez.\nSalesperson: Hi Ramirez, I'm Anthony Washington from GreenTech Inc.. I'd like to talk about our RecycleMate.\nRecipient: Hmm, I'm not sure if we need that.\nSalesperson: Actually, RecycleMate can help you save costs and improve efficiency. It's perfect for businesses like yours.\nRecipient: Sounds interesting, but we're on a tight budget.\nSalesperson: I understand. We're offering a limited-time discount. Would you like to try a free demo?\nRecipient: Maybe later. We're just not ready now.\nSalesperson: No worries, Ramirez. Thanks for your time!"
+  },
+  {
+    "call_id": "cad5d19e-66c3-48ea-93db-4c4d242580a6",
+    "agent_id": "d45a6d05",
+    "customer_id": "6c2ebd44",
+    "language": "en",
+    "start_time": "2025-06-12T19:43:35",
+    "duration_seconds": 46,
+    "transcript": "Salesperson: Hello, is this Richards?\nRecipient: Yes, this is Richards.\nSalesperson: Hi Richards, I'm Peter Ramirez from EcoHome. I'd like to talk about our RecycleMate.\nRecipient: Hmm, I'm not sure if we need that.\nSalesperson: Actually, RecycleMate can help you save costs and improve efficiency. It's perfect for businesses like yours.\nRecipient: Sounds interesting, but we're on a tight budget.\nSalesperson: I understand. We're offering a limited-time discount. Would you like to try a free demo?\nRecipient: Maybe later. We're just not ready now.\nSalesperson: No worries, Richards. Thanks for your time!"
+  },
+  {
+    "call_id": "1359c56c-4206-4a60-971c-8ab638868900",
+    "agent_id": "a5dd6229",
+    "customer_id": "d710082b",
+    "language": "en",
+    "start_time": "2025-07-28T08:53:06",
+    "duration_seconds": 47,
+    "transcript": "Salesperson: Hello, is this Mann?\nRecipient: Yes, this is Mann.\nSalesperson: Hi Mann, I'm Diana Barnett from EcoHome. I'd like to talk about our SmartWater Bottle.\nRecipient: Hmm, I'm not sure if we need that.\nSalesperson: Actually, SmartWater Bottle can help you save costs and improve efficiency. It's perfect for businesses like yours.\nRecipient: Sounds interesting, but we're on a tight budget.\nSalesperson: I understand. We're offering a limited-time discount. Would you like to try a free demo?\nRecipient: Maybe later. We're just not ready now.\nSalesperson: No worries, Mann. Thanks for your time!"
+  },
+  {
+    "call_id": "23138f9a-2d83-4b7b-b4d4-8ffd12163e19",
+    "agent_id": "5df080a1",
+    "customer_id": "f5bc948b",
+    "language": "en",
+    "start_time": "2025-07-19T01:55:45",
+    "duration_seconds": 46,
+    "transcript": "Salesperson: Hello, is this Salinas?\nRecipient: Yes, this is Salinas.\nSalesperson: Hi Salinas, I'm Mitchell Davis from Brita. I'd like to talk about our EcoCycle.\nRecipient: Hmm, I'm not sure if we need that.\nSalesperson: Actually, EcoCycle can help you save costs and improve efficiency. It's perfect for businesses like yours.\nRecipient: Sounds interesting, but we're on a tight budget.\nSalesperson: I understand. We're offering a limited-time discount. Would you like to try a free demo?\nRecipient: Maybe later. We're just not ready now.\nSalesperson: No worries, Salinas. Thanks for your time!"
+  },
+  {
+    "call_id": "eadfdb7c-2921-42b3-b2c8-a5e402da6b8f",
+    "agent_id": "e553bd12",
+    "customer_id": "3ed09096",
+    "language": "en",
+    "start_time": "2025-06-26T00:22:31",
+    "duration_seconds": 46,
+    "transcript": "Salesperson: Hello, is this Conner?\nRecipient: Yes, this is Conner.\nSalesperson: Hi Conner, I'm Kenneth Wilkerson from HydroPure. I'd like to talk about our EcoCycle.\nRecipient: Hmm, I'm not sure if we need that.\nSalesperson: Actually, EcoCycle can help you save costs and improve efficiency. It's perfect for businesses like yours.\nRecipient: Sounds interesting, but we're on a tight budget.\nSalesperson: I understand. We're offering a limited-time discount. Would you like to try a free demo?\nRecipient: Maybe later. We're just not ready now.\nSalesperson: No worries, Conner. Thanks for your time!"
+  },
+  {
+    "call_id": "b9a88798-98f3-4327-921c-33f7127f35c0",
+    "agent_id": "3d220823",
+    "customer_id": "a2892e5a",
+    "language": "en",
+    "start_time": "2025-07-31T07:36:38",
+    "duration_seconds": 46,
+    "transcript": "Salesperson: Hello, is this Moreno?\nRecipient: Yes, this is Moreno.\nSalesperson: Hi Moreno, I'm Marvin Diaz from HydroPure. I'd like to talk about our RecycleMate.\nRecipient: Hmm, I'm not sure if we need that.\nSalesperson: Actually, RecycleMate can help you save costs and improve efficiency. It's perfect for businesses like yours.\nRecipient: Sounds interesting, but we're on a tight budget.\nSalesperson: I understand. We're offering a limited-time discount. Would you like to try a free demo?\nRecipient: Maybe later. We're just not ready now.\nSalesperson: No worries, Moreno. Thanks for your time!"
+  },
+  {
+    "call_id": "35b006ad-9dfb-42ee-9895-7b5b88120402",
+    "agent_id": "b3c26b59",
+    "customer_id": "b05fe2c4",
+    "language": "en",
+    "start_time": "2025-06-22T03:05:55",
+    "duration_seconds": 35,
+    "transcript": "Salesperson: Hi, is this Henderson?\nRecipient: Yes, who's this?\nSalesperson: I'm Bridget Myers from EcoHome. I'm calling to introduce our new EcoCycle.\nRecipient: Oh, what's special about it?\nSalesperson: It's eco-friendly and cost-efficient. Great for daily use.\nRecipient: That sounds useful. What's the price?\nSalesperson: It normally sells at $44, but we have a 5% discount.\nRecipient: Cool. I'll take one.\nSalesperson: Awesome! Your order is being processed. Thank you, Henderson!"
+  },
+  {
+    "call_id": "ee3fb36c-8b44-4c36-8081-5028ead255f0",
+    "agent_id": "44731a32",
+    "customer_id": "b84f173c",
+    "language": "en",
+    "start_time": "2025-06-09T05:35:52",
+    "duration_seconds": 36,
+    "transcript": "Salesperson: Hi, is this Tran?\nRecipient: Yes, who's this?\nSalesperson: I'm Jose Ball from EcoHome. I'm calling to introduce our new SmartWater Bottle.\nRecipient: Oh, what's special about it?\nSalesperson: It's eco-friendly and cost-efficient. Great for daily use.\nRecipient: That sounds useful. What's the price?\nSalesperson: It normally sells at $68, but we have a 5% discount.\nRecipient: Cool. I'll take one.\nSalesperson: Awesome! Your order is being processed. Thank you, Tran!"
+  },
+  {
+    "call_id": "577d068f-7565-4662-bc62-f197069f6c0f",
+    "agent_id": "a504454e",
+    "customer_id": "4b33d497",
+    "language": "en",
+    "start_time": "2025-07-05T22:31:41",
+    "duration_seconds": 36,
+    "transcript": "Salesperson: Hi, is this Jones?\nRecipient: Yes, who's this?\nSalesperson: I'm Joshua Austin from HydroPure. I'm calling to introduce our new SmartWater Bottle.\nRecipient: Oh, what's special about it?\nSalesperson: It's eco-friendly and cost-efficient. Great for daily use.\nRecipient: That sounds useful. What's the price?\nSalesperson: It normally sells at $43, but we have a 15% discount.\nRecipient: Cool. I'll take one.\nSalesperson: Awesome! Your order is being processed. Thank you, Jones!"
+  },
+  {
+    "call_id": "c70a876b-8cea-4b90-a8cb-358ce400d7eb",
+    "agent_id": "35ad060a",
+    "customer_id": "2325606c",
+    "language": "en",
+    "start_time": "2025-06-21T01:31:23",
+    "duration_seconds": 35,
+    "transcript": "Salesperson: Hi, is this Reed?\nRecipient: Yes, who's this?\nSalesperson: I'm Ricky Mckinney from HydroPure. I'm calling to introduce our new EcoCycle.\nRecipient: Oh, what's special about it?\nSalesperson: It's eco-friendly and cost-efficient. Great for daily use.\nRecipient: That sounds useful. What's the price?\nSalesperson: It normally sells at $70, but we have a 5% discount.\nRecipient: Cool. I'll take one.\nSalesperson: Awesome! Your order is being processed. Thank you, Reed!"
+  },
+  {
+    "call_id": "f2709872-d38b-4c5a-94ab-11ddf24ddcdd",
+    "agent_id": "0fab7ba8",
+    "customer_id": "ef49264a",
+    "language": "en",
+    "start_time": "2025-06-09T02:04:51",
+    "duration_seconds": 36,
+    "transcript": "Salesperson: Hi, is this Santiago?\nRecipient: Yes, who's this?\nSalesperson: I'm Mark Brown from GreenTech Inc.. I'm calling to introduce our new AirFilter Pro.\nRecipient: Oh, what's special about it?\nSalesperson: It's eco-friendly and cost-efficient. Great for daily use.\nRecipient: That sounds useful. What's the price?\nSalesperson: It normally sells at $33, but we have a 15% discount.\nRecipient: Cool. I'll take one.\nSalesperson: Awesome! Your order is being processed. Thank you, Santiago!"
+  },
+  {
+    "call_id": "380c686a-66bf-4fe6-9d47-c85b53771996",
+    "agent_id": "f48eb675",
+    "customer_id": "911ade07",
+    "language": "en",
+    "start_time": "2025-06-25T20:00:53",
+    "duration_seconds": 46,
+    "transcript": "Salesperson: Hello, is this Golden?\nRecipient: Yes, this is Golden.\nSalesperson: Hi Golden, I'm Michael Melendez from EcoHome. I'd like to talk about our EcoCycle.\nRecipient: Hmm, I'm not sure if we need that.\nSalesperson: Actually, EcoCycle can help you save costs and improve efficiency. It's perfect for businesses like yours.\nRecipient: Sounds interesting, but we're on a tight budget.\nSalesperson: I understand. We're offering a limited-time discount. Would you like to try a free demo?\nRecipient: Maybe later. We're just not ready now.\nSalesperson: No worries, Golden. Thanks for your time!"
+  },
+  {
+    "call_id": "8a183adc-9097-484b-8ab6-f85bd636678f",
+    "agent_id": "cb5fe0b4",
+    "customer_id": "550a39dc",
+    "language": "en",
+    "start_time": "2025-06-12T03:37:16",
+    "duration_seconds": 36,
+    "transcript": "Salesperson: Hi, is this Lee?\nRecipient: Yes, who's this?\nSalesperson: I'm Brittany Chavez from GreenTech Inc.. I'm calling to introduce our new AirFilter Pro.\nRecipient: Oh, what's special about it?\nSalesperson: It's eco-friendly and cost-efficient. Great for daily use.\nRecipient: That sounds useful. What's the price?\nSalesperson: It normally sells at $57, but we have a 5% discount.\nRecipient: Cool. I'll take one.\nSalesperson: Awesome! Your order is being processed. Thank you, Lee!"
+  },
+  {
+    "call_id": "5275367d-3f7a-4ecc-8d63-f337928a1fe0",
+    "agent_id": "f0d82229",
+    "customer_id": "e27283a4",
+    "language": "en",
+    "start_time": "2025-07-20T18:56:44",
+    "duration_seconds": 46,
+    "transcript": "Salesperson: Hello, is this Edwards?\nRecipient: Yes, this is Edwards.\nSalesperson: Hi Edwards, I'm Shannon Hall from GreenTech Inc.. I'd like to talk about our HydroBooster.\nRecipient: Hmm, I'm not sure if we need that.\nSalesperson: Actually, HydroBooster can help you save costs and improve efficiency. It's perfect for businesses like yours.\nRecipient: Sounds interesting, but we're on a tight budget.\nSalesperson: I understand. We're offering a limited-time discount. Would you like to try a free demo?\nRecipient: Maybe later. We're just not ready now.\nSalesperson: No worries, Edwards. Thanks for your time!"
+  },
+  {
+    "call_id": "fc9d44b3-7770-4887-88dd-45fd6a17907d",
+    "agent_id": "2acc8d78",
+    "customer_id": "04171f3c",
+    "language": "en",
+    "start_time": "2025-07-29T08:50:18",
+    "duration_seconds": 47,
+    "transcript": "Salesperson: Hello, is this Foster?\nRecipient: Yes, this is Foster.\nSalesperson: Hi Foster, I'm Daniel Mendoza from EcoHome. I'd like to talk about our SmartWater Bottle.\nRecipient: Hmm, I'm not sure if we need that.\nSalesperson: Actually, SmartWater Bottle can help you save costs and improve efficiency. It's perfect for businesses like yours.\nRecipient: Sounds interesting, but we're on a tight budget.\nSalesperson: I understand. We're offering a limited-time discount. Would you like to try a free demo?\nRecipient: Maybe later. We're just not ready now.\nSalesperson: No worries, Foster. Thanks for your time!"
+  },
+  {
+    "call_id": "c6241f28-2957-4d84-ba5f-eda01d15b4ba",
+    "agent_id": "e78f7a9f",
+    "customer_id": "45d507b2",
+    "language": "en",
+    "start_time": "2025-07-10T06:08:47",
+    "duration_seconds": 36,
+    "transcript": "Salesperson: Hi, is this Hart?\nRecipient: Yes, who's this?\nSalesperson: I'm Kayla Winters from Brita. I'm calling to introduce our new AirFilter Pro.\nRecipient: Oh, what's special about it?\nSalesperson: It's eco-friendly and cost-efficient. Great for daily use.\nRecipient: That sounds useful. What's the price?\nSalesperson: It normally sells at $68, but we have a 10% discount.\nRecipient: Cool. I'll take one.\nSalesperson: Awesome! Your order is being processed. Thank you, Hart!"
+  },
+  {
+    "call_id": "0d3a4f83-d35f-42e2-ad96-707107dbcf67",
+    "agent_id": "d4a5a944",
+    "customer_id": "a128e2a0",
+    "language": "en",
+    "start_time": "2025-06-04T09:23:54",
+    "duration_seconds": 46,
+    "transcript": "Salesperson: Hello, is this Norman?\nRecipient: Yes, this is Norman.\nSalesperson: Hi Norman, I'm Ronald Moore from SmartClean. I'd like to talk about our RecycleMate.\nRecipient: Hmm, I'm not sure if we need that.\nSalesperson: Actually, RecycleMate can help you save costs and improve efficiency. It's perfect for businesses like yours.\nRecipient: Sounds interesting, but we're on a tight budget.\nSalesperson: I understand. We're offering a limited-time discount. Would you like to try a free demo?\nRecipient: Maybe later. We're just not ready now.\nSalesperson: No worries, Norman. Thanks for your time!"
+  },
+  {
+    "call_id": "c015c517-e1f2-461c-95ea-31e79989a74d",
+    "agent_id": "2cba85ca",
+    "customer_id": "629f99dc",
+    "language": "en",
+    "start_time": "2025-07-29T02:21:15",
+    "duration_seconds": 35,
+    "transcript": "Salesperson: Hi, is this Ramirez?\nRecipient: Yes, who's this?\nSalesperson: I'm Sharon Carpenter from Brita. I'm calling to introduce our new HydroBooster.\nRecipient: Oh, what's special about it?\nSalesperson: It's eco-friendly and cost-efficient. Great for daily use.\nRecipient: That sounds useful. What's the price?\nSalesperson: It normally sells at $39, but we have a 10% discount.\nRecipient: Cool. I'll take one.\nSalesperson: Awesome! Your order is being processed. Thank you, Ramirez!"
+  },
+  {
+    "call_id": "737b0188-ccde-4ed6-a0a4-c0d10e608f27",
+    "agent_id": "762fca28",
+    "customer_id": "74cbdb9a",
+    "language": "en",
+    "start_time": "2025-06-30T05:39:56",
+    "duration_seconds": 35,
+    "transcript": "Salesperson: Hi, is this James?\nRecipient: Yes, who's this?\nSalesperson: I'm Victoria Howard from EcoHome. I'm calling to introduce our new RecycleMate.\nRecipient: Oh, what's special about it?\nSalesperson: It's eco-friendly and cost-efficient. Great for daily use.\nRecipient: That sounds useful. What's the price?\nSalesperson: It normally sells at $52, but we have a 15% discount.\nRecipient: Cool. I'll take one.\nSalesperson: Awesome! Your order is being processed. Thank you, James!"
+  },
+  {
+    "call_id": "59214a5a-8613-480f-85d2-8000f4c49923",
+    "agent_id": "a9b42cec",
+    "customer_id": "da980596",
+    "language": "en",
+    "start_time": "2025-07-22T12:20:22",
+    "duration_seconds": 36,
+    "transcript": "Salesperson: Hi, is this Riggs?\nRecipient: Yes, who's this?\nSalesperson: I'm Amanda Aguilar from GreenTech Inc.. I'm calling to introduce our new AirFilter Pro.\nRecipient: Oh, what's special about it?\nSalesperson: It's eco-friendly and cost-efficient. Great for daily use.\nRecipient: That sounds useful. What's the price?\nSalesperson: It normally sells at $64, but we have a 10% discount.\nRecipient: Cool. I'll take one.\nSalesperson: Awesome! Your order is being processed. Thank you, Riggs!"
+  },
+  {
+    "call_id": "eda95a65-793c-4220-9fe0-b2429415f018",
+    "agent_id": "e64f24de",
+    "customer_id": "d0c18c0a",
+    "language": "en",
+    "start_time": "2025-06-20T00:24:23",
+    "duration_seconds": 46,
+    "transcript": "Salesperson: Hello, is this Price?\nRecipient: Yes, this is Price.\nSalesperson: Hi Price, I'm Hannah Bailey from HydroPure. I'd like to talk about our EcoCycle.\nRecipient: Hmm, I'm not sure if we need that.\nSalesperson: Actually, EcoCycle can help you save costs and improve efficiency. It's perfect for businesses like yours.\nRecipient: Sounds interesting, but we're on a tight budget.\nSalesperson: I understand. We're offering a limited-time discount. Would you like to try a free demo?\nRecipient: Maybe later. We're just not ready now.\nSalesperson: No worries, Price. Thanks for your time!"
+  },
+  {
+    "call_id": "ee576ae6-5bd3-476e-a182-e0fca8703627",
+    "agent_id": "2c7a20cb",
+    "customer_id": "f409cc8e",
+    "language": "en",
+    "start_time": "2025-07-09T10:45:57",
+    "duration_seconds": 35,
+    "transcript": "Salesperson: Hi, is this Carr?\nRecipient: Yes, who's this?\nSalesperson: I'm Samuel Hammond from SmartClean. I'm calling to introduce our new RecycleMate.\nRecipient: Oh, what's special about it?\nSalesperson: It's eco-friendly and cost-efficient. Great for daily use.\nRecipient: That sounds useful. What's the price?\nSalesperson: It normally sells at $44, but we have a 15% discount.\nRecipient: Cool. I'll take one.\nSalesperson: Awesome! Your order is being processed. Thank you, Carr!"
+  },
+  {
+    "call_id": "b18b55b6-af97-4050-ba8b-d5d3854147a1",
+    "agent_id": "007bf324",
+    "customer_id": "8f85bfe1",
+    "language": "en",
+    "start_time": "2025-06-22T09:57:21",
+    "duration_seconds": 36,
+    "transcript": "Salesperson: Hi, is this Schaefer?\nRecipient: Yes, who's this?\nSalesperson: I'm Brittney Foster from GreenTech Inc.. I'm calling to introduce our new AirFilter Pro.\nRecipient: Oh, what's special about it?\nSalesperson: It's eco-friendly and cost-efficient. Great for daily use.\nRecipient: That sounds useful. What's the price?\nSalesperson: It normally sells at $50, but we have a 15% discount.\nRecipient: Cool. I'll take one.\nSalesperson: Awesome! Your order is being processed. Thank you, Schaefer!"
+  },
+  {
+    "call_id": "9c417587-47c4-4208-95f2-a707b365fae1",
+    "agent_id": "c22b38ed",
+    "customer_id": "adf57792",
+    "language": "en",
+    "start_time": "2025-07-05T13:35:22",
+    "duration_seconds": 36,
+    "transcript": "Salesperson: Hi, is this Martinez?\nRecipient: Yes, who's this?\nSalesperson: I'm Richard Moon from SmartClean. I'm calling to introduce our new AirFilter Pro.\nRecipient: Oh, what's special about it?\nSalesperson: It's eco-friendly and cost-efficient. Great for daily use.\nRecipient: That sounds useful. What's the price?\nSalesperson: It normally sells at $59, but we have a 10% discount.\nRecipient: Cool. I'll take one.\nSalesperson: Awesome! Your order is being processed. Thank you, Martinez!"
+  },
+  {
+    "call_id": "52ecfb13-fb59-4487-85b4-57a524a7d81c",
+    "agent_id": "79b28dd1",
+    "customer_id": "f7fabdca",
+    "language": "en",
+    "start_time": "2025-07-07T12:06:09",
+    "duration_seconds": 47,
+    "transcript": "Salesperson: Hello, is this Torres?\nRecipient: Yes, this is Torres.\nSalesperson: Hi Torres, I'm Cristina Morris from GreenTech Inc.. I'd like to talk about our SmartWater Bottle.\nRecipient: Hmm, I'm not sure if we need that.\nSalesperson: Actually, SmartWater Bottle can help you save costs and improve efficiency. It's perfect for businesses like yours.\nRecipient: Sounds interesting, but we're on a tight budget.\nSalesperson: I understand. We're offering a limited-time discount. Would you like to try a free demo?\nRecipient: Maybe later. We're just not ready now.\nSalesperson: No worries, Torres. Thanks for your time!"
+  },
+  {
+    "call_id": "9eef7998-ceb4-4b0e-b67b-f809e6e0a1e6",
+    "agent_id": "c2911b49",
+    "customer_id": "8797d7cd",
+    "language": "en",
+    "start_time": "2025-06-12T09:38:09",
+    "duration_seconds": 36,
+    "transcript": "Salesperson: Hi, is this Roberts?\nRecipient: Yes, who's this?\nSalesperson: I'm Nathaniel Ramirez from GreenTech Inc.. I'm calling to introduce our new RecycleMate.\nRecipient: Oh, what's special about it?\nSalesperson: It's eco-friendly and cost-efficient. Great for daily use.\nRecipient: That sounds useful. What's the price?\nSalesperson: It normally sells at $57, but we have a 10% discount.\nRecipient: Cool. I'll take one.\nSalesperson: Awesome! Your order is being processed. Thank you, Roberts!"
+  },
+  {
+    "call_id": "a9c97314-2e23-471e-abd6-f941c23ee961",
+    "agent_id": "804fe1de",
+    "customer_id": "3759befb",
+    "language": "en",
+    "start_time": "2025-06-20T02:24:42",
+    "duration_seconds": 46,
+    "transcript": "Salesperson: Hello, is this Jimenez?\nRecipient: Yes, this is Jimenez.\nSalesperson: Hi Jimenez, I'm Juan Williamson from Brita. I'd like to talk about our HydroBooster.\nRecipient: Hmm, I'm not sure if we need that.\nSalesperson: Actually, HydroBooster can help you save costs and improve efficiency. It's perfect for businesses like yours.\nRecipient: Sounds interesting, but we're on a tight budget.\nSalesperson: I understand. We're offering a limited-time discount. Would you like to try a free demo?\nRecipient: Maybe later. We're just not ready now.\nSalesperson: No worries, Jimenez. Thanks for your time!"
+  },
+  {
+    "call_id": "45b6e1d2-27c6-4b74-9acc-e4955a9aed20",
+    "agent_id": "706ab881",
+    "customer_id": "78dded48",
+    "language": "en",
+    "start_time": "2025-07-31T20:10:57",
+    "duration_seconds": 36,
+    "transcript": "Salesperson: Hi, is this Torres?\nRecipient: Yes, who's this?\nSalesperson: I'm Lori Bradley from GreenTech Inc.. I'm calling to introduce our new HydroBooster.\nRecipient: Oh, what's special about it?\nSalesperson: It's eco-friendly and cost-efficient. Great for daily use.\nRecipient: That sounds useful. What's the price?\nSalesperson: It normally sells at $30, but we have a 5% discount.\nRecipient: Cool. I'll take one.\nSalesperson: Awesome! Your order is being processed. Thank you, Torres!"
+  },
+  {
+    "call_id": "b171bb96-cea4-4d56-86e7-d78b346cb697",
+    "agent_id": "b3283c58",
+    "customer_id": "b6c91377",
+    "language": "en",
+    "start_time": "2025-07-03T01:52:40",
+    "duration_seconds": 46,
+    "transcript": "Salesperson: Hello, is this Fuller?\nRecipient: Yes, this is Fuller.\nSalesperson: Hi Fuller, I'm Jacqueline Chavez from SmartClean. I'd like to talk about our RecycleMate.\nRecipient: Hmm, I'm not sure if we need that.\nSalesperson: Actually, RecycleMate can help you save costs and improve efficiency. It's perfect for businesses like yours.\nRecipient: Sounds interesting, but we're on a tight budget.\nSalesperson: I understand. We're offering a limited-time discount. Would you like to try a free demo?\nRecipient: Maybe later. We're just not ready now.\nSalesperson: No worries, Fuller. Thanks for your time!"
+  },
+  {
+    "call_id": "7caff77f-f256-4595-b076-720ada79a4b4",
+    "agent_id": "0ec77b9c",
+    "customer_id": "acf01a5b",
+    "language": "en",
+    "start_time": "2025-06-25T23:24:32",
+    "duration_seconds": 46,
+    "transcript": "Salesperson: Hello, is this Hoffman?\nRecipient: Yes, this is Hoffman.\nSalesperson: Hi Hoffman, I'm Ivan Long from Brita. I'd like to talk about our RecycleMate.\nRecipient: Hmm, I'm not sure if we need that.\nSalesperson: Actually, RecycleMate can help you save costs and improve efficiency. It's perfect for businesses like yours.\nRecipient: Sounds interesting, but we're on a tight budget.\nSalesperson: I understand. We're offering a limited-time discount. Would you like to try a free demo?\nRecipient: Maybe later. We're just not ready now.\nSalesperson: No worries, Hoffman. Thanks for your time!"
+  },
+  {
+    "call_id": "34d92fd5-7702-40f2-8a91-97fe1e3646f0",
+    "agent_id": "7d58b6f7",
+    "customer_id": "e08d49fa",
+    "language": "en",
+    "start_time": "2025-06-28T06:21:24",
+    "duration_seconds": 46,
+    "transcript": "Salesperson: Hello, is this Hansen?\nRecipient: Yes, this is Hansen.\nSalesperson: Hi Hansen, I'm Mary Mitchell from EcoHome. I'd like to talk about our HydroBooster.\nRecipient: Hmm, I'm not sure if we need that.\nSalesperson: Actually, HydroBooster can help you save costs and improve efficiency. It's perfect for businesses like yours.\nRecipient: Sounds interesting, but we're on a tight budget.\nSalesperson: I understand. We're offering a limited-time discount. Would you like to try a free demo?\nRecipient: Maybe later. We're just not ready now.\nSalesperson: No worries, Hansen. Thanks for your time!"
+  },
+  {
+    "call_id": "c69a461c-0054-49a3-9ec0-02b15c32e2ab",
+    "agent_id": "4f6c5700",
+    "customer_id": "f2e58bce",
+    "language": "en",
+    "start_time": "2025-06-19T09:02:13",
+    "duration_seconds": 46,
+    "transcript": "Salesperson: Hello, is this Allen?\nRecipient: Yes, this is Allen.\nSalesperson: Hi Allen, I'm Mr. Jesus Green from SmartClean. I'd like to talk about our RecycleMate.\nRecipient: Hmm, I'm not sure if we need that.\nSalesperson: Actually, RecycleMate can help you save costs and improve efficiency. It's perfect for businesses like yours.\nRecipient: Sounds interesting, but we're on a tight budget.\nSalesperson: I understand. We're offering a limited-time discount. Would you like to try a free demo?\nRecipient: Maybe later. We're just not ready now.\nSalesperson: No worries, Allen. Thanks for your time!"
+  },
+  {
+    "call_id": "94f23191-4da6-4cc3-8325-0ff9bad1d6be",
+    "agent_id": "f4ef7f42",
+    "customer_id": "e9ffab68",
+    "language": "en",
+    "start_time": "2025-07-30T11:39:22",
+    "duration_seconds": 47,
+    "transcript": "Salesperson: Hello, is this Harris?\nRecipient: Yes, this is Harris.\nSalesperson: Hi Harris, I'm Stephanie Mcintyre from SmartClean. I'd like to talk about our SmartWater Bottle.\nRecipient: Hmm, I'm not sure if we need that.\nSalesperson: Actually, SmartWater Bottle can help you save costs and improve efficiency. It's perfect for businesses like yours.\nRecipient: Sounds interesting, but we're on a tight budget.\nSalesperson: I understand. We're offering a limited-time discount. Would you like to try a free demo?\nRecipient: Maybe later. We're just not ready now.\nSalesperson: No worries, Harris. Thanks for your time!"
+  },
+  {
+    "call_id": "41e22b38-df08-492b-b49c-a4d4451f50a9",
+    "agent_id": "084bbe4f",
+    "customer_id": "a783b1cd",
+    "language": "en",
+    "start_time": "2025-06-21T16:41:27",
+    "duration_seconds": 35,
+    "transcript": "Salesperson: Hi, is this Johnson?\nRecipient: Yes, who's this?\nSalesperson: I'm Charles Bradshaw from EcoHome. I'm calling to introduce our new EcoCycle.\nRecipient: Oh, what's special about it?\nSalesperson: It's eco-friendly and cost-efficient. Great for daily use.\nRecipient: That sounds useful. What's the price?\nSalesperson: It normally sells at $44, but we have a 5% discount.\nRecipient: Cool. I'll take one.\nSalesperson: Awesome! Your order is being processed. Thank you, Johnson!"
+  },
+  {
+    "call_id": "4ac8f23f-7fbb-476b-b19e-0886a7c3a614",
+    "agent_id": "3a1f9cb8",
+    "customer_id": "2f07734c",
+    "language": "en",
+    "start_time": "2025-07-17T00:30:00",
+    "duration_seconds": 35,
+    "transcript": "Salesperson: Hi, is this Coleman?\nRecipient: Yes, who's this?\nSalesperson: I'm Kyle Smith from Brita. I'm calling to introduce our new HydroBooster.\nRecipient: Oh, what's special about it?\nSalesperson: It's eco-friendly and cost-efficient. Great for daily use.\nRecipient: That sounds useful. What's the price?\nSalesperson: It normally sells at $51, but we have a 5% discount.\nRecipient: Cool. I'll take one.\nSalesperson: Awesome! Your order is being processed. Thank you, Coleman!"
+  },
+  {
+    "call_id": "2108cbd3-989a-4fac-8745-58da4d164ca7",
+    "agent_id": "5c021ff1",
+    "customer_id": "589248a0",
+    "language": "en",
+    "start_time": "2025-06-20T17:14:57",
+    "duration_seconds": 35,
+    "transcript": "Salesperson: Hi, is this Reynolds?\nRecipient: Yes, who's this?\nSalesperson: I'm Mark Smith from EcoHome. I'm calling to introduce our new HydroBooster.\nRecipient: Oh, what's special about it?\nSalesperson: It's eco-friendly and cost-efficient. Great for daily use.\nRecipient: That sounds useful. What's the price?\nSalesperson: It normally sells at $45, but we have a 5% discount.\nRecipient: Cool. I'll take one.\nSalesperson: Awesome! Your order is being processed. Thank you, Reynolds!"
+  },
+  {
+    "call_id": "1c88d08b-6d44-438e-97bd-2057be3f60c9",
+    "agent_id": "6bef4aca",
+    "customer_id": "55434a2d",
+    "language": "en",
+    "start_time": "2025-07-19T19:49:10",
+    "duration_seconds": 36,
+    "transcript": "Salesperson: Hi, is this Davis?\nRecipient: Yes, who's this?\nSalesperson: I'm Danielle Duffy from HydroPure. I'm calling to introduce our new AirFilter Pro.\nRecipient: Oh, what's special about it?\nSalesperson: It's eco-friendly and cost-efficient. Great for daily use.\nRecipient: That sounds useful. What's the price?\nSalesperson: It normally sells at $36, but we have a 5% discount.\nRecipient: Cool. I'll take one.\nSalesperson: Awesome! Your order is being processed. Thank you, Davis!"
+  },
+  {
+    "call_id": "cb69f642-e8e9-4b9f-9985-943f6212f1cb",
+    "agent_id": "ad251138",
+    "customer_id": "9d93bc15",
+    "language": "en",
+    "start_time": "2025-07-25T13:50:10",
+    "duration_seconds": 35,
+    "transcript": "Salesperson: Hi, is this Everett?\nRecipient: Yes, who's this?\nSalesperson: I'm Michael Scott from SmartClean. I'm calling to introduce our new HydroBooster.\nRecipient: Oh, what's special about it?\nSalesperson: It's eco-friendly and cost-efficient. Great for daily use.\nRecipient: That sounds useful. What's the price?\nSalesperson: It normally sells at $51, but we have a 15% discount.\nRecipient: Cool. I'll take one.\nSalesperson: Awesome! Your order is being processed. Thank you, Everett!"
+  },
+  {
+    "call_id": "f3395f07-0a3d-46ed-bf62-150a4632a4d9",
+    "agent_id": "7c20cf02",
+    "customer_id": "931fabc9",
+    "language": "en",
+    "start_time": "2025-07-08T10:48:24",
+    "duration_seconds": 46,
+    "transcript": "Salesperson: Hello, is this Ward?\nRecipient: Yes, this is Ward.\nSalesperson: Hi Ward, I'm Tammy Travis from SmartClean. I'd like to talk about our EcoCycle.\nRecipient: Hmm, I'm not sure if we need that.\nSalesperson: Actually, EcoCycle can help you save costs and improve efficiency. It's perfect for businesses like yours.\nRecipient: Sounds interesting, but we're on a tight budget.\nSalesperson: I understand. We're offering a limited-time discount. Would you like to try a free demo?\nRecipient: Maybe later. We're just not ready now.\nSalesperson: No worries, Ward. Thanks for your time!"
+  },
+  {
+    "call_id": "2dc723b7-625f-4ef0-836d-18108b7d97f0",
+    "agent_id": "988541a1",
+    "customer_id": "9f4b1b24",
+    "language": "en",
+    "start_time": "2025-06-18T06:33:31",
+    "duration_seconds": 46,
+    "transcript": "Salesperson: Hello, is this Stewart?\nRecipient: Yes, this is Stewart.\nSalesperson: Hi Stewart, I'm Tara Smith from GreenTech Inc.. I'd like to talk about our EcoCycle.\nRecipient: Hmm, I'm not sure if we need that.\nSalesperson: Actually, EcoCycle can help you save costs and improve efficiency. It's perfect for businesses like yours.\nRecipient: Sounds interesting, but we're on a tight budget.\nSalesperson: I understand. We're offering a limited-time discount. Would you like to try a free demo?\nRecipient: Maybe later. We're just not ready now.\nSalesperson: No worries, Stewart. Thanks for your time!"
+  },
+  {
+    "call_id": "796269ee-8d34-446c-b356-9d3dc8db8bb6",
+    "agent_id": "55a96c32",
+    "customer_id": "32f8e59f",
+    "language": "en",
+    "start_time": "2025-07-24T12:27:21",
+    "duration_seconds": 46,
+    "transcript": "Salesperson: Hello, is this Ferguson?\nRecipient: Yes, this is Ferguson.\nSalesperson: Hi Ferguson, I'm Aaron Spears from SmartClean. I'd like to talk about our HydroBooster.\nRecipient: Hmm, I'm not sure if we need that.\nSalesperson: Actually, HydroBooster can help you save costs and improve efficiency. It's perfect for businesses like yours.\nRecipient: Sounds interesting, but we're on a tight budget.\nSalesperson: I understand. We're offering a limited-time discount. Would you like to try a free demo?\nRecipient: Maybe later. We're just not ready now.\nSalesperson: No worries, Ferguson. Thanks for your time!"
+  },
+  {
+    "call_id": "20afd0af-075f-4d52-bad6-a7ecacc333ce",
+    "agent_id": "fba82e0c",
+    "customer_id": "57fa216c",
+    "language": "en",
+    "start_time": "2025-06-26T02:34:32",
+    "duration_seconds": 35,
+    "transcript": "Salesperson: Hi, is this Rogers?\nRecipient: Yes, who's this?\nSalesperson: I'm Michelle Meyer from Brita. I'm calling to introduce our new RecycleMate.\nRecipient: Oh, what's special about it?\nSalesperson: It's eco-friendly and cost-efficient. Great for daily use.\nRecipient: That sounds useful. What's the price?\nSalesperson: It normally sells at $44, but we have a 15% discount.\nRecipient: Cool. I'll take one.\nSalesperson: Awesome! Your order is being processed. Thank you, Rogers!"
+  },
+  {
+    "call_id": "533a7bc7-66d9-427d-89ef-5d947772ea5f",
+    "agent_id": "9f58998b",
+    "customer_id": "2c0e463c",
+    "language": "en",
+    "start_time": "2025-06-03T01:00:14",
+    "duration_seconds": 47,
+    "transcript": "Salesperson: Hello, is this Reynolds?\nRecipient: Yes, this is Reynolds.\nSalesperson: Hi Reynolds, I'm Susan Alvarez PhD from EcoHome. I'd like to talk about our AirFilter Pro.\nRecipient: Hmm, I'm not sure if we need that.\nSalesperson: Actually, AirFilter Pro can help you save costs and improve efficiency. It's perfect for businesses like yours.\nRecipient: Sounds interesting, but we're on a tight budget.\nSalesperson: I understand. We're offering a limited-time discount. Would you like to try a free demo?\nRecipient: Maybe later. We're just not ready now.\nSalesperson: No worries, Reynolds. Thanks for your time!"
+  },
+  {
+    "call_id": "7a606237-4025-4f66-afe1-139d213f50e6",
+    "agent_id": "bf02ad40",
+    "customer_id": "cca705b6",
+    "language": "en",
+    "start_time": "2025-07-05T20:03:00",
+    "duration_seconds": 35,
+    "transcript": "Salesperson: Hi, is this Reid?\nRecipient: Yes, who's this?\nSalesperson: I'm Michael Davidson from SmartClean. I'm calling to introduce our new RecycleMate.\nRecipient: Oh, what's special about it?\nSalesperson: It's eco-friendly and cost-efficient. Great for daily use.\nRecipient: That sounds useful. What's the price?\nSalesperson: It normally sells at $55, but we have a 5% discount.\nRecipient: Cool. I'll take one.\nSalesperson: Awesome! Your order is being processed. Thank you, Reid!"
+  },
+  {
+    "call_id": "60f72bd3-5a67-4d9d-9724-25bb4d649b91",
+    "agent_id": "32f523cf",
+    "customer_id": "f8e66d07",
+    "language": "en",
+    "start_time": "2025-07-31T12:30:59",
+    "duration_seconds": 46,
+    "transcript": "Salesperson: Hello, is this Rivas?\nRecipient: Yes, this is Rivas.\nSalesperson: Hi Rivas, I'm Ricardo Robinson from EcoHome. I'd like to talk about our RecycleMate.\nRecipient: Hmm, I'm not sure if we need that.\nSalesperson: Actually, RecycleMate can help you save costs and improve efficiency. It's perfect for businesses like yours.\nRecipient: Sounds interesting, but we're on a tight budget.\nSalesperson: I understand. We're offering a limited-time discount. Would you like to try a free demo?\nRecipient: Maybe later. We're just not ready now.\nSalesperson: No worries, Rivas. Thanks for your time!"
+  },
+  {
+    "call_id": "a405ce68-34cf-424c-bee3-ce549a6103fd",
+    "agent_id": "b44710bf",
+    "customer_id": "af412d48",
+    "language": "en",
+    "start_time": "2025-06-22T01:00:24",
+    "duration_seconds": 47,
+    "transcript": "Salesperson: Hello, is this Moses?\nRecipient: Yes, this is Moses.\nSalesperson: Hi Moses, I'm Joshua Mullen from EcoHome. I'd like to talk about our AirFilter Pro.\nRecipient: Hmm, I'm not sure if we need that.\nSalesperson: Actually, AirFilter Pro can help you save costs and improve efficiency. It's perfect for businesses like yours.\nRecipient: Sounds interesting, but we're on a tight budget.\nSalesperson: I understand. We're offering a limited-time discount. Would you like to try a free demo?\nRecipient: Maybe later. We're just not ready now.\nSalesperson: No worries, Moses. Thanks for your time!"
+  },
+  {
+    "call_id": "6920fec1-64a5-4756-9a14-3db4729d9d87",
+    "agent_id": "6df4ce7b",
+    "customer_id": "a82be458",
+    "language": "en",
+    "start_time": "2025-07-18T19:33:32",
+    "duration_seconds": 47,
+    "transcript": "Salesperson: Hello, is this Barber?\nRecipient: Yes, this is Barber.\nSalesperson: Hi Barber, I'm Elizabeth Fernandez from EcoHome. I'd like to talk about our AirFilter Pro.\nRecipient: Hmm, I'm not sure if we need that.\nSalesperson: Actually, AirFilter Pro can help you save costs and improve efficiency. It's perfect for businesses like yours.\nRecipient: Sounds interesting, but we're on a tight budget.\nSalesperson: I understand. We're offering a limited-time discount. Would you like to try a free demo?\nRecipient: Maybe later. We're just not ready now.\nSalesperson: No worries, Barber. Thanks for your time!"
+  },
+  {
+    "call_id": "dae6f0d2-2536-4067-aac2-b90cde6e77e6",
+    "agent_id": "f47e4d6a",
+    "customer_id": "66275c55",
+    "language": "en",
+    "start_time": "2025-06-14T13:01:07",
+    "duration_seconds": 47,
+    "transcript": "Salesperson: Hello, is this Reynolds?\nRecipient: Yes, this is Reynolds.\nSalesperson: Hi Reynolds, I'm Bruce Harrell from GreenTech Inc.. I'd like to talk about our SmartWater Bottle.\nRecipient: Hmm, I'm not sure if we need that.\nSalesperson: Actually, SmartWater Bottle can help you save costs and improve efficiency. It's perfect for businesses like yours.\nRecipient: Sounds interesting, but we're on a tight budget.\nSalesperson: I understand. We're offering a limited-time discount. Would you like to try a free demo?\nRecipient: Maybe later. We're just not ready now.\nSalesperson: No worries, Reynolds. Thanks for your time!"
+  },
+  {
+    "call_id": "56540730-5b93-48aa-a689-09cae3c0697d",
+    "agent_id": "7d45775c",
+    "customer_id": "8bb5e386",
+    "language": "en",
+    "start_time": "2025-07-20T11:20:34",
+    "duration_seconds": 47,
+    "transcript": "Salesperson: Hello, is this Walker?\nRecipient: Yes, this is Walker.\nSalesperson: Hi Walker, I'm Megan Willis from HydroPure. I'd like to talk about our SmartWater Bottle.\nRecipient: Hmm, I'm not sure if we need that.\nSalesperson: Actually, SmartWater Bottle can help you save costs and improve efficiency. It's perfect for businesses like yours.\nRecipient: Sounds interesting, but we're on a tight budget.\nSalesperson: I understand. We're offering a limited-time discount. Would you like to try a free demo?\nRecipient: Maybe later. We're just not ready now.\nSalesperson: No worries, Walker. Thanks for your time!"
+  },
+  {
+    "call_id": "923022fb-187f-42b9-8f2e-34470fc19f84",
+    "agent_id": "dc95e1ce",
+    "customer_id": "99568e33",
+    "language": "en",
+    "start_time": "2025-07-31T22:14:23",
+    "duration_seconds": 35,
+    "transcript": "Salesperson: Hi, is this Johnston?\nRecipient: Yes, who's this?\nSalesperson: I'm Gregory Evans from HydroPure. I'm calling to introduce our new RecycleMate.\nRecipient: Oh, what's special about it?\nSalesperson: It's eco-friendly and cost-efficient. Great for daily use.\nRecipient: That sounds useful. What's the price?\nSalesperson: It normally sells at $58, but we have a 10% discount.\nRecipient: Cool. I'll take one.\nSalesperson: Awesome! Your order is being processed. Thank you, Johnston!"
+  },
+  {
+    "call_id": "205ff0b5-9d34-44af-a1de-7827be95e87b",
+    "agent_id": "92c26584",
+    "customer_id": "19c06144",
+    "language": "en",
+    "start_time": "2025-07-15T23:37:01",
+    "duration_seconds": 46,
+    "transcript": "Salesperson: Hello, is this Morrow?\nRecipient: Yes, this is Morrow.\nSalesperson: Hi Morrow, I'm Daniel White from EcoHome. I'd like to talk about our EcoCycle.\nRecipient: Hmm, I'm not sure if we need that.\nSalesperson: Actually, EcoCycle can help you save costs and improve efficiency. It's perfect for businesses like yours.\nRecipient: Sounds interesting, but we're on a tight budget.\nSalesperson: I understand. We're offering a limited-time discount. Would you like to try a free demo?\nRecipient: Maybe later. We're just not ready now.\nSalesperson: No worries, Morrow. Thanks for your time!"
+  },
+  {
+    "call_id": "218cacbd-8c43-46c2-ac77-c1b14d2d6b84",
+    "agent_id": "de9f8770",
+    "customer_id": "0035952d",
+    "language": "en",
+    "start_time": "2025-07-01T02:42:40",
+    "duration_seconds": 35,
+    "transcript": "Salesperson: Hi, is this Chapman?\nRecipient: Yes, who's this?\nSalesperson: I'm Kerry Davis from SmartClean. I'm calling to introduce our new HydroBooster.\nRecipient: Oh, what's special about it?\nSalesperson: It's eco-friendly and cost-efficient. Great for daily use.\nRecipient: That sounds useful. What's the price?\nSalesperson: It normally sells at $48, but we have a 15% discount.\nRecipient: Cool. I'll take one.\nSalesperson: Awesome! Your order is being processed. Thank you, Chapman!"
+  },
+  {
+    "call_id": "b4cdca4d-86ff-4dff-b092-33244c7acf87",
+    "agent_id": "fb66bea4",
+    "customer_id": "d5199891",
+    "language": "en",
+    "start_time": "2025-07-31T00:39:43",
+    "duration_seconds": 35,
+    "transcript": "Salesperson: Hi, is this Johnson?\nRecipient: Yes, who's this?\nSalesperson: I'm Maxwell Jordan from EcoHome. I'm calling to introduce our new EcoCycle.\nRecipient: Oh, what's special about it?\nSalesperson: It's eco-friendly and cost-efficient. Great for daily use.\nRecipient: That sounds useful. What's the price?\nSalesperson: It normally sells at $34, but we have a 5% discount.\nRecipient: Cool. I'll take one.\nSalesperson: Awesome! Your order is being processed. Thank you, Johnson!"
+  },
+  {
+    "call_id": "5491ad04-2be8-4acd-bbf5-8e98d3aea71d",
+    "agent_id": "10ba981f",
+    "customer_id": "b95eae57",
+    "language": "en",
+    "start_time": "2025-06-28T21:25:37",
+    "duration_seconds": 35,
+    "transcript": "Salesperson: Hi, is this Anderson?\nRecipient: Yes, who's this?\nSalesperson: I'm Dwayne Sanchez from Brita. I'm calling to introduce our new HydroBooster.\nRecipient: Oh, what's special about it?\nSalesperson: It's eco-friendly and cost-efficient. Great for daily use.\nRecipient: That sounds useful. What's the price?\nSalesperson: It normally sells at $70, but we have a 15% discount.\nRecipient: Cool. I'll take one.\nSalesperson: Awesome! Your order is being processed. Thank you, Anderson!"
+  },
+  {
+    "call_id": "73653378-46c1-480e-8cc7-1092fe8fa0b7",
+    "agent_id": "18f92695",
+    "customer_id": "74540350",
+    "language": "en",
+    "start_time": "2025-07-23T04:32:14",
+    "duration_seconds": 47,
+    "transcript": "Salesperson: Hello, is this Swanson?\nRecipient: Yes, this is Swanson.\nSalesperson: Hi Swanson, I'm Taylor Maxwell from GreenTech Inc.. I'd like to talk about our SmartWater Bottle.\nRecipient: Hmm, I'm not sure if we need that.\nSalesperson: Actually, SmartWater Bottle can help you save costs and improve efficiency. It's perfect for businesses like yours.\nRecipient: Sounds interesting, but we're on a tight budget.\nSalesperson: I understand. We're offering a limited-time discount. Would you like to try a free demo?\nRecipient: Maybe later. We're just not ready now.\nSalesperson: No worries, Swanson. Thanks for your time!"
+  },
+  {
+    "call_id": "4d09da27-fdca-4b1e-bbe9-f1e1982ef922",
+    "agent_id": "0ccbf0fc",
+    "customer_id": "24cc48b7",
+    "language": "en",
+    "start_time": "2025-06-24T19:40:38",
+    "duration_seconds": 47,
+    "transcript": "Salesperson: Hello, is this Burke?\nRecipient: Yes, this is Burke.\nSalesperson: Hi Burke, I'm Danielle Walker from EcoHome. I'd like to talk about our AirFilter Pro.\nRecipient: Hmm, I'm not sure if we need that.\nSalesperson: Actually, AirFilter Pro can help you save costs and improve efficiency. It's perfect for businesses like yours.\nRecipient: Sounds interesting, but we're on a tight budget.\nSalesperson: I understand. We're offering a limited-time discount. Would you like to try a free demo?\nRecipient: Maybe later. We're just not ready now.\nSalesperson: No worries, Burke. Thanks for your time!"
+  },
+  {
+    "call_id": "2405e8cd-a58a-42a5-a67f-9425c1153d51",
+    "agent_id": "05142cb0",
+    "customer_id": "f0962eec",
+    "language": "en",
+    "start_time": "2025-06-29T12:33:52",
+    "duration_seconds": 46,
+    "transcript": "Salesperson: Hello, is this Smith?\nRecipient: Yes, this is Smith.\nSalesperson: Hi Smith, I'm Seth Sanchez Jr. from Brita. I'd like to talk about our RecycleMate.\nRecipient: Hmm, I'm not sure if we need that.\nSalesperson: Actually, RecycleMate can help you save costs and improve efficiency. It's perfect for businesses like yours.\nRecipient: Sounds interesting, but we're on a tight budget.\nSalesperson: I understand. We're offering a limited-time discount. Would you like to try a free demo?\nRecipient: Maybe later. We're just not ready now.\nSalesperson: No worries, Smith. Thanks for your time!"
+  },
+  {
+    "call_id": "428737b4-4aa5-410b-b5ff-2923f97f489a",
+    "agent_id": "d715feeb",
+    "customer_id": "64f12755",
+    "language": "en",
+    "start_time": "2025-07-19T23:20:16",
+    "duration_seconds": 46,
+    "transcript": "Salesperson: Hello, is this Sawyer?\nRecipient: Yes, this is Sawyer.\nSalesperson: Hi Sawyer, I'm Hannah Chambers from GreenTech Inc.. I'd like to talk about our HydroBooster.\nRecipient: Hmm, I'm not sure if we need that.\nSalesperson: Actually, HydroBooster can help you save costs and improve efficiency. It's perfect for businesses like yours.\nRecipient: Sounds interesting, but we're on a tight budget.\nSalesperson: I understand. We're offering a limited-time discount. Would you like to try a free demo?\nRecipient: Maybe later. We're just not ready now.\nSalesperson: No worries, Sawyer. Thanks for your time!"
+  },
+  {
+    "call_id": "fa58e4c9-8a87-4527-9fb5-d112c7afbbeb",
+    "agent_id": "d0f85ee2",
+    "customer_id": "aedadfe9",
+    "language": "en",
+    "start_time": "2025-06-18T19:43:57",
+    "duration_seconds": 47,
+    "transcript": "Salesperson: Hello, is this Gonzalez?\nRecipient: Yes, this is Gonzalez.\nSalesperson: Hi Gonzalez, I'm Joseph Craig from EcoHome. I'd like to talk about our AirFilter Pro.\nRecipient: Hmm, I'm not sure if we need that.\nSalesperson: Actually, AirFilter Pro can help you save costs and improve efficiency. It's perfect for businesses like yours.\nRecipient: Sounds interesting, but we're on a tight budget.\nSalesperson: I understand. We're offering a limited-time discount. Would you like to try a free demo?\nRecipient: Maybe later. We're just not ready now.\nSalesperson: No worries, Gonzalez. Thanks for your time!"
+  },
+  {
+    "call_id": "d88bd8c3-fa98-4806-b69d-f02fc800f7be",
+    "agent_id": "328b345b",
+    "customer_id": "d1adef67",
+    "language": "en",
+    "start_time": "2025-06-07T05:10:11",
+    "duration_seconds": 36,
+    "transcript": "Salesperson: Hi, is this Chapman?\nRecipient: Yes, who's this?\nSalesperson: I'm Rebecca Garrett from SmartClean. I'm calling to introduce our new SmartWater Bottle.\nRecipient: Oh, what's special about it?\nSalesperson: It's eco-friendly and cost-efficient. Great for daily use.\nRecipient: That sounds useful. What's the price?\nSalesperson: It normally sells at $62, but we have a 15% discount.\nRecipient: Cool. I'll take one.\nSalesperson: Awesome! Your order is being processed. Thank you, Chapman!"
+  },
+  {
+    "call_id": "e745b4c7-aa3a-41d8-b7de-5df52f1aff26",
+    "agent_id": "2f3ef4d6",
+    "customer_id": "03f7c3d0",
+    "language": "en",
+    "start_time": "2025-07-04T15:22:37",
+    "duration_seconds": 36,
+    "transcript": "Salesperson: Hi, is this Reese?\nRecipient: Yes, who's this?\nSalesperson: I'm Christopher Clark from HydroPure. I'm calling to introduce our new AirFilter Pro.\nRecipient: Oh, what's special about it?\nSalesperson: It's eco-friendly and cost-efficient. Great for daily use.\nRecipient: That sounds useful. What's the price?\nSalesperson: It normally sells at $39, but we have a 15% discount.\nRecipient: Cool. I'll take one.\nSalesperson: Awesome! Your order is being processed. Thank you, Reese!"
+  },
+  {
+    "call_id": "db057e77-4ab4-47f3-a08f-c0dcb709ec0f",
+    "agent_id": "dbe99947",
+    "customer_id": "57b7a2fc",
+    "language": "en",
+    "start_time": "2025-07-13T00:25:54",
+    "duration_seconds": 35,
+    "transcript": "Salesperson: Hi, is this Sullivan?\nRecipient: Yes, who's this?\nSalesperson: I'm Lauren Barrett from SmartClean. I'm calling to introduce our new HydroBooster.\nRecipient: Oh, what's special about it?\nSalesperson: It's eco-friendly and cost-efficient. Great for daily use.\nRecipient: That sounds useful. What's the price?\nSalesperson: It normally sells at $51, but we have a 5% discount.\nRecipient: Cool. I'll take one.\nSalesperson: Awesome! Your order is being processed. Thank you, Sullivan!"
+  },
+  {
+    "call_id": "c7d5c0b8-2348-4664-93ba-ff9a58d7266b",
+    "agent_id": "aaeee1aa",
+    "customer_id": "bbb8f820",
+    "language": "en",
+    "start_time": "2025-07-26T21:29:29",
+    "duration_seconds": 47,
+    "transcript": "Salesperson: Hello, is this Butler?\nRecipient: Yes, this is Butler.\nSalesperson: Hi Butler, I'm Elizabeth Warren from HydroPure. I'd like to talk about our SmartWater Bottle.\nRecipient: Hmm, I'm not sure if we need that.\nSalesperson: Actually, SmartWater Bottle can help you save costs and improve efficiency. It's perfect for businesses like yours.\nRecipient: Sounds interesting, but we're on a tight budget.\nSalesperson: I understand. We're offering a limited-time discount. Would you like to try a free demo?\nRecipient: Maybe later. We're just not ready now.\nSalesperson: No worries, Butler. Thanks for your time!"
+  },
+  {
+    "call_id": "b152dbad-3550-4ca3-b190-4750d1e25342",
+    "agent_id": "c827462c",
+    "customer_id": "0cce4169",
+    "language": "en",
+    "start_time": "2025-07-03T18:11:29",
+    "duration_seconds": 46,
+    "transcript": "Salesperson: Hello, is this Mcdonald?\nRecipient: Yes, this is Mcdonald.\nSalesperson: Hi Mcdonald, I'm Mackenzie Carter from EcoHome. I'd like to talk about our RecycleMate.\nRecipient: Hmm, I'm not sure if we need that.\nSalesperson: Actually, RecycleMate can help you save costs and improve efficiency. It's perfect for businesses like yours.\nRecipient: Sounds interesting, but we're on a tight budget.\nSalesperson: I understand. We're offering a limited-time discount. Would you like to try a free demo?\nRecipient: Maybe later. We're just not ready now.\nSalesperson: No worries, Mcdonald. Thanks for your time!"
+  },
+  {
+    "call_id": "e2d67642-57b3-4194-8a31-0e94c039f8ca",
+    "agent_id": "cb20a1b7",
+    "customer_id": "3f19c379",
+    "language": "en",
+    "start_time": "2025-07-21T17:33:50",
+    "duration_seconds": 35,
+    "transcript": "Salesperson: Hi, is this Jones?\nRecipient: Yes, who's this?\nSalesperson: I'm David Taylor from SmartClean. I'm calling to introduce our new RecycleMate.\nRecipient: Oh, what's special about it?\nSalesperson: It's eco-friendly and cost-efficient. Great for daily use.\nRecipient: That sounds useful. What's the price?\nSalesperson: It normally sells at $64, but we have a 5% discount.\nRecipient: Cool. I'll take one.\nSalesperson: Awesome! Your order is being processed. Thank you, Jones!"
+  },
+  {
+    "call_id": "4d2f0011-60f9-4e65-b7f3-398627105ea7",
+    "agent_id": "dac26197",
+    "customer_id": "d3de63fb",
+    "language": "en",
+    "start_time": "2025-06-16T21:49:48",
+    "duration_seconds": 36,
+    "transcript": "Salesperson: Hi, is this Reyes?\nRecipient: Yes, who's this?\nSalesperson: I'm Robert Jackson from HydroPure. I'm calling to introduce our new AirFilter Pro.\nRecipient: Oh, what's special about it?\nSalesperson: It's eco-friendly and cost-efficient. Great for daily use.\nRecipient: That sounds useful. What's the price?\nSalesperson: It normally sells at $59, but we have a 15% discount.\nRecipient: Cool. I'll take one.\nSalesperson: Awesome! Your order is being processed. Thank you, Reyes!"
+  },
+  {
+    "call_id": "84e38c83-86b8-4248-bbcd-dc025d45fe4e",
+    "agent_id": "5c11b1d6",
+    "customer_id": "bc712c4d",
+    "language": "en",
+    "start_time": "2025-07-06T14:45:55",
+    "duration_seconds": 35,
+    "transcript": "Salesperson: Hi, is this Armstrong?\nRecipient: Yes, who's this?\nSalesperson: I'm Thomas Neal from Brita. I'm calling to introduce our new EcoCycle.\nRecipient: Oh, what's special about it?\nSalesperson: It's eco-friendly and cost-efficient. Great for daily use.\nRecipient: That sounds useful. What's the price?\nSalesperson: It normally sells at $33, but we have a 15% discount.\nRecipient: Cool. I'll take one.\nSalesperson: Awesome! Your order is being processed. Thank you, Armstrong!"
+  },
+  {
+    "call_id": "5b019d87-9442-41cf-bfff-3b5e6d40849a",
+    "agent_id": "23dadd9b",
+    "customer_id": "be2cadce",
+    "language": "en",
+    "start_time": "2025-07-19T19:06:15",
+    "duration_seconds": 36,
+    "transcript": "Salesperson: Hi, is this Smith?\nRecipient: Yes, who's this?\nSalesperson: I'm Mary Rios from EcoHome. I'm calling to introduce our new SmartWater Bottle.\nRecipient: Oh, what's special about it?\nSalesperson: It's eco-friendly and cost-efficient. Great for daily use.\nRecipient: That sounds useful. What's the price?\nSalesperson: It normally sells at $50, but we have a 10% discount.\nRecipient: Cool. I'll take one.\nSalesperson: Awesome! Your order is being processed. Thank you, Smith!"
+  },
+  {
+    "call_id": "00991221-3f2a-4469-8d13-3484e0cb47b8",
+    "agent_id": "a62a9b99",
+    "customer_id": "1cca8033",
+    "language": "en",
+    "start_time": "2025-07-01T20:41:27",
+    "duration_seconds": 46,
+    "transcript": "Salesperson: Hello, is this Martinez?\nRecipient: Yes, this is Martinez.\nSalesperson: Hi Martinez, I'm Michelle Anderson from GreenTech Inc.. I'd like to talk about our EcoCycle.\nRecipient: Hmm, I'm not sure if we need that.\nSalesperson: Actually, EcoCycle can help you save costs and improve efficiency. It's perfect for businesses like yours.\nRecipient: Sounds interesting, but we're on a tight budget.\nSalesperson: I understand. We're offering a limited-time discount. Would you like to try a free demo?\nRecipient: Maybe later. We're just not ready now.\nSalesperson: No worries, Martinez. Thanks for your time!"
+  },
+  {
+    "call_id": "d8c22b4a-140c-4927-ba0e-3be632e07407",
+    "agent_id": "9f7a6ddc",
+    "customer_id": "90a4123e",
+    "language": "en",
+    "start_time": "2025-07-12T00:27:05",
+    "duration_seconds": 35,
+    "transcript": "Salesperson: Hi, is this Long?\nRecipient: Yes, who's this?\nSalesperson: I'm Thomas Smith from SmartClean. I'm calling to introduce our new EcoCycle.\nRecipient: Oh, what's special about it?\nSalesperson: It's eco-friendly and cost-efficient. Great for daily use.\nRecipient: That sounds useful. What's the price?\nSalesperson: It normally sells at $32, but we have a 10% discount.\nRecipient: Cool. I'll take one.\nSalesperson: Awesome! Your order is being processed. Thank you, Long!"
+  },
+  {
+    "call_id": "ed4b9e82-64e1-449c-b6e4-3f5f2b255685",
+    "agent_id": "06100f1b",
+    "customer_id": "f4f4ccfc",
+    "language": "en",
+    "start_time": "2025-07-06T14:23:00",
+    "duration_seconds": 35,
+    "transcript": "Salesperson: Hi, is this Sandoval?\nRecipient: Yes, who's this?\nSalesperson: I'm Marie Acosta from SmartClean. I'm calling to introduce our new RecycleMate.\nRecipient: Oh, what's special about it?\nSalesperson: It's eco-friendly and cost-efficient. Great for daily use.\nRecipient: That sounds useful. What's the price?\nSalesperson: It normally sells at $57, but we have a 15% discount.\nRecipient: Cool. I'll take one.\nSalesperson: Awesome! Your order is being processed. Thank you, Sandoval!"
+  },
+  {
+    "call_id": "bba73cd2-e4d1-42bd-8efb-5ac78044faeb",
+    "agent_id": "29f10d63",
+    "customer_id": "570ff5fc",
+    "language": "en",
+    "start_time": "2025-07-23T06:06:19",
+    "duration_seconds": 46,
+    "transcript": "Salesperson: Hello, is this Kelly?\nRecipient: Yes, this is Kelly.\nSalesperson: Hi Kelly, I'm Kevin Phelps from GreenTech Inc.. I'd like to talk about our EcoCycle.\nRecipient: Hmm, I'm not sure if we need that.\nSalesperson: Actually, EcoCycle can help you save costs and improve efficiency. It's perfect for businesses like yours.\nRecipient: Sounds interesting, but we're on a tight budget.\nSalesperson: I understand. We're offering a limited-time discount. Would you like to try a free demo?\nRecipient: Maybe later. We're just not ready now.\nSalesperson: No worries, Kelly. Thanks for your time!"
+  },
+  {
+    "call_id": "3bdce8d6-3558-471c-8eb6-6614b53a7d12",
+    "agent_id": "160f2b59",
+    "customer_id": "72ad28c4",
+    "language": "en",
+    "start_time": "2025-07-09T12:49:29",
+    "duration_seconds": 46,
+    "transcript": "Salesperson: Hello, is this Boyle?\nRecipient: Yes, this is Boyle.\nSalesperson: Hi Boyle, I'm Jennifer Gray from EcoHome. I'd like to talk about our HydroBooster.\nRecipient: Hmm, I'm not sure if we need that.\nSalesperson: Actually, HydroBooster can help you save costs and improve efficiency. It's perfect for businesses like yours.\nRecipient: Sounds interesting, but we're on a tight budget.\nSalesperson: I understand. We're offering a limited-time discount. Would you like to try a free demo?\nRecipient: Maybe later. We're just not ready now.\nSalesperson: No worries, Boyle. Thanks for your time!"
+  },
+  {
+    "call_id": "1f37c562-3399-43fa-8a0e-7c41acd97c9e",
+    "agent_id": "c88b9713",
+    "customer_id": "cd2f262a",
+    "language": "en",
+    "start_time": "2025-07-07T18:45:31",
+    "duration_seconds": 36,
+    "transcript": "Salesperson: Hi, is this Wise?\nRecipient: Yes, who's this?\nSalesperson: I'm Olivia Davis from GreenTech Inc.. I'm calling to introduce our new AirFilter Pro.\nRecipient: Oh, what's special about it?\nSalesperson: It's eco-friendly and cost-efficient. Great for daily use.\nRecipient: That sounds useful. What's the price?\nSalesperson: It normally sells at $42, but we have a 5% discount.\nRecipient: Cool. I'll take one.\nSalesperson: Awesome! Your order is being processed. Thank you, Wise!"
+  },
+  {
+    "call_id": "78f847f0-3faa-467e-8eaf-f09559126271",
+    "agent_id": "c45af1be",
+    "customer_id": "c90224f7",
+    "language": "en",
+    "start_time": "2025-07-06T02:08:45",
+    "duration_seconds": 46,
+    "transcript": "Salesperson: Hello, is this Estrada?\nRecipient: Yes, this is Estrada.\nSalesperson: Hi Estrada, I'm Jennifer Johnson from EcoHome. I'd like to talk about our EcoCycle.\nRecipient: Hmm, I'm not sure if we need that.\nSalesperson: Actually, EcoCycle can help you save costs and improve efficiency. It's perfect for businesses like yours.\nRecipient: Sounds interesting, but we're on a tight budget.\nSalesperson: I understand. We're offering a limited-time discount. Would you like to try a free demo?\nRecipient: Maybe later. We're just not ready now.\nSalesperson: No worries, Estrada. Thanks for your time!"
+  },
+  {
+    "call_id": "024549c0-66f7-49b7-b814-741eda6d3704",
+    "agent_id": "f6ca630d",
+    "customer_id": "f78f6266",
+    "language": "en",
+    "start_time": "2025-06-03T23:07:43",
+    "duration_seconds": 46,
+    "transcript": "Salesperson: Hello, is this Jones?\nRecipient: Yes, this is Jones.\nSalesperson: Hi Jones, I'm Maria Patterson from HydroPure. I'd like to talk about our EcoCycle.\nRecipient: Hmm, I'm not sure if we need that.\nSalesperson: Actually, EcoCycle can help you save costs and improve efficiency. It's perfect for businesses like yours.\nRecipient: Sounds interesting, but we're on a tight budget.\nSalesperson: I understand. We're offering a limited-time discount. Would you like to try a free demo?\nRecipient: Maybe later. We're just not ready now.\nSalesperson: No worries, Jones. Thanks for your time!"
+  },
+  {
+    "call_id": "0ad8010c-ff27-4820-ba35-650f06ca7479",
+    "agent_id": "37aff6b8",
+    "customer_id": "799103da",
+    "language": "en",
+    "start_time": "2025-07-19T10:27:37",
+    "duration_seconds": 36,
+    "transcript": "Salesperson: Hi, is this Parker?\nRecipient: Yes, who's this?\nSalesperson: I'm Cynthia Morrow from EcoHome. I'm calling to introduce our new SmartWater Bottle.\nRecipient: Oh, what's special about it?\nSalesperson: It's eco-friendly and cost-efficient. Great for daily use.\nRecipient: That sounds useful. What's the price?\nSalesperson: It normally sells at $37, but we have a 10% discount.\nRecipient: Cool. I'll take one.\nSalesperson: Awesome! Your order is being processed. Thank you, Parker!"
+  },
+  {
+    "call_id": "a421553d-b94b-4f1b-99fa-424446293843",
+    "agent_id": "78a93824",
+    "customer_id": "f5692b39",
+    "language": "en",
+    "start_time": "2025-06-26T06:30:27",
+    "duration_seconds": 47,
+    "transcript": "Salesperson: Hello, is this Ramirez?\nRecipient: Yes, this is Ramirez.\nSalesperson: Hi Ramirez, I'm Joshua Poole from HydroPure. I'd like to talk about our AirFilter Pro.\nRecipient: Hmm, I'm not sure if we need that.\nSalesperson: Actually, AirFilter Pro can help you save costs and improve efficiency. It's perfect for businesses like yours.\nRecipient: Sounds interesting, but we're on a tight budget.\nSalesperson: I understand. We're offering a limited-time discount. Would you like to try a free demo?\nRecipient: Maybe later. We're just not ready now.\nSalesperson: No worries, Ramirez. Thanks for your time!"
+  },
+  {
+    "call_id": "89f614f6-4204-4b38-b18b-197ece1a6f63",
+    "agent_id": "4f32a994",
+    "customer_id": "9eb834b0",
+    "language": "en",
+    "start_time": "2025-07-18T07:10:40",
+    "duration_seconds": 46,
+    "transcript": "Salesperson: Hello, is this Walter?\nRecipient: Yes, this is Walter.\nSalesperson: Hi Walter, I'm Jerry Wallace from GreenTech Inc.. I'd like to talk about our RecycleMate.\nRecipient: Hmm, I'm not sure if we need that.\nSalesperson: Actually, RecycleMate can help you save costs and improve efficiency. It's perfect for businesses like yours.\nRecipient: Sounds interesting, but we're on a tight budget.\nSalesperson: I understand. We're offering a limited-time discount. Would you like to try a free demo?\nRecipient: Maybe later. We're just not ready now.\nSalesperson: No worries, Walter. Thanks for your time!"
+  },
+  {
+    "call_id": "77dd0e7b-7bb7-458a-be52-f9bd21a5e442",
+    "agent_id": "e14cd98b",
+    "customer_id": "2d486f2d",
+    "language": "en",
+    "start_time": "2025-07-08T17:55:15",
+    "duration_seconds": 36,
+    "transcript": "Salesperson: Hi, is this Day?\nRecipient: Yes, who's this?\nSalesperson: I'm Jeffrey Wilson from GreenTech Inc.. I'm calling to introduce our new RecycleMate.\nRecipient: Oh, what's special about it?\nSalesperson: It's eco-friendly and cost-efficient. Great for daily use.\nRecipient: That sounds useful. What's the price?\nSalesperson: It normally sells at $43, but we have a 15% discount.\nRecipient: Cool. I'll take one.\nSalesperson: Awesome! Your order is being processed. Thank you, Day!"
+  },
+  {
+    "call_id": "73953848-0d09-4000-ab60-1f4ba7265b54",
+    "agent_id": "23d194ff",
+    "customer_id": "4c05920b",
+    "language": "en",
+    "start_time": "2025-06-07T05:21:43",
+    "duration_seconds": 36,
+    "transcript": "Salesperson: Hi, is this Dickson?\nRecipient: Yes, who's this?\nSalesperson: I'm Maria Bell from Brita. I'm calling to introduce our new SmartWater Bottle.\nRecipient: Oh, what's special about it?\nSalesperson: It's eco-friendly and cost-efficient. Great for daily use.\nRecipient: That sounds useful. What's the price?\nSalesperson: It normally sells at $38, but we have a 5% discount.\nRecipient: Cool. I'll take one.\nSalesperson: Awesome! Your order is being processed. Thank you, Dickson!"
+  },
+  {
+    "call_id": "e4540d99-886b-4d80-b8ac-00b2d624b3c5",
+    "agent_id": "e2411622",
+    "customer_id": "e0a28804",
+    "language": "en",
+    "start_time": "2025-06-30T01:47:28",
+    "duration_seconds": 36,
+    "transcript": "Salesperson: Hi, is this Lee?\nRecipient: Yes, who's this?\nSalesperson: I'm Nicole Martinez from GreenTech Inc.. I'm calling to introduce our new HydroBooster.\nRecipient: Oh, what's special about it?\nSalesperson: It's eco-friendly and cost-efficient. Great for daily use.\nRecipient: That sounds useful. What's the price?\nSalesperson: It normally sells at $58, but we have a 5% discount.\nRecipient: Cool. I'll take one.\nSalesperson: Awesome! Your order is being processed. Thank you, Lee!"
+  },
+  {
+    "call_id": "8b273448-dc73-4e18-9d77-f5337ececf1a",
+    "agent_id": "cd1af8fa",
+    "customer_id": "3de8cfb4",
+    "language": "en",
+    "start_time": "2025-06-25T06:29:18",
+    "duration_seconds": 35,
+    "transcript": "Salesperson: Hi, is this Obrien?\nRecipient: Yes, who's this?\nSalesperson: I'm Shannon Brown from SmartClean. I'm calling to introduce our new RecycleMate.\nRecipient: Oh, what's special about it?\nSalesperson: It's eco-friendly and cost-efficient. Great for daily use.\nRecipient: That sounds useful. What's the price?\nSalesperson: It normally sells at $36, but we have a 15% discount.\nRecipient: Cool. I'll take one.\nSalesperson: Awesome! Your order is being processed. Thank you, Obrien!"
+  },
+  {
+    "call_id": "af7d4a04-972b-4bc5-b8be-f4c1df67f64b",
+    "agent_id": "18a40665",
+    "customer_id": "16fc62aa",
+    "language": "en",
+    "start_time": "2025-06-13T15:41:44",
+    "duration_seconds": 47,
+    "transcript": "Salesperson: Hello, is this Warren?\nRecipient: Yes, this is Warren.\nSalesperson: Hi Warren, I'm Isabella Hood from GreenTech Inc.. I'd like to talk about our AirFilter Pro.\nRecipient: Hmm, I'm not sure if we need that.\nSalesperson: Actually, AirFilter Pro can help you save costs and improve efficiency. It's perfect for businesses like yours.\nRecipient: Sounds interesting, but we're on a tight budget.\nSalesperson: I understand. We're offering a limited-time discount. Would you like to try a free demo?\nRecipient: Maybe later. We're just not ready now.\nSalesperson: No worries, Warren. Thanks for your time!"
+  },
+  {
+    "call_id": "66a2e9bf-be1f-477b-b0d5-808ef8df699c",
+    "agent_id": "67ada6aa",
+    "customer_id": "a4974756",
+    "language": "en",
+    "start_time": "2025-06-03T06:20:07",
+    "duration_seconds": 35,
+    "transcript": "Salesperson: Hi, is this Neal?\nRecipient: Yes, who's this?\nSalesperson: I'm David Ferguson from HydroPure. I'm calling to introduce our new EcoCycle.\nRecipient: Oh, what's special about it?\nSalesperson: It's eco-friendly and cost-efficient. Great for daily use.\nRecipient: That sounds useful. What's the price?\nSalesperson: It normally sells at $35, but we have a 10% discount.\nRecipient: Cool. I'll take one.\nSalesperson: Awesome! Your order is being processed. Thank you, Neal!"
+  },
+  {
+    "call_id": "b2a25189-9ea6-4ff6-bf95-1ad4823e5dec",
+    "agent_id": "b34c3c8b",
+    "customer_id": "f321b03a",
+    "language": "en",
+    "start_time": "2025-06-22T02:59:32",
+    "duration_seconds": 36,
+    "transcript": "Salesperson: Hi, is this Mitchell?\nRecipient: Yes, who's this?\nSalesperson: I'm Eric Miller from EcoHome. I'm calling to introduce our new AirFilter Pro.\nRecipient: Oh, what's special about it?\nSalesperson: It's eco-friendly and cost-efficient. Great for daily use.\nRecipient: That sounds useful. What's the price?\nSalesperson: It normally sells at $70, but we have a 15% discount.\nRecipient: Cool. I'll take one.\nSalesperson: Awesome! Your order is being processed. Thank you, Mitchell!"
+  },
+  {
+    "call_id": "aa4d1d13-4804-49ff-a4c1-6c713dc2bec1",
+    "agent_id": "493cad45",
+    "customer_id": "8be48bc1",
+    "language": "en",
+    "start_time": "2025-08-01T03:31:40",
+    "duration_seconds": 46,
+    "transcript": "Salesperson: Hello, is this Sparks?\nRecipient: Yes, this is Sparks.\nSalesperson: Hi Sparks, I'm Adam Jones from SmartClean. I'd like to talk about our RecycleMate.\nRecipient: Hmm, I'm not sure if we need that.\nSalesperson: Actually, RecycleMate can help you save costs and improve efficiency. It's perfect for businesses like yours.\nRecipient: Sounds interesting, but we're on a tight budget.\nSalesperson: I understand. We're offering a limited-time discount. Would you like to try a free demo?\nRecipient: Maybe later. We're just not ready now.\nSalesperson: No worries, Sparks. Thanks for your time!"
+  },
+  {
+    "call_id": "bd801801-2d8a-4c4a-a2ee-dec6e9c68dcb",
+    "agent_id": "cc041329",
+    "customer_id": "9699d3c9",
+    "language": "en",
+    "start_time": "2025-06-23T00:00:41",
+    "duration_seconds": 36,
+    "transcript": "Salesperson: Hi, is this Rios?\nRecipient: Yes, who's this?\nSalesperson: I'm Michael Butler from SmartClean. I'm calling to introduce our new AirFilter Pro.\nRecipient: Oh, what's special about it?\nSalesperson: It's eco-friendly and cost-efficient. Great for daily use.\nRecipient: That sounds useful. What's the price?\nSalesperson: It normally sells at $32, but we have a 15% discount.\nRecipient: Cool. I'll take one.\nSalesperson: Awesome! Your order is being processed. Thank you, Rios!"
+  },
+  {
+    "call_id": "4a1e7b4c-4a53-41c5-a192-92644bff506b",
+    "agent_id": "b006a59f",
+    "customer_id": "6f92bea7",
+    "language": "en",
+    "start_time": "2025-06-28T12:55:32",
+    "duration_seconds": 36,
+    "transcript": "Salesperson: Hi, is this Parrish?\nRecipient: Yes, who's this?\nSalesperson: I'm Kevin Pearson from GreenTech Inc.. I'm calling to introduce our new EcoCycle.\nRecipient: Oh, what's special about it?\nSalesperson: It's eco-friendly and cost-efficient. Great for daily use.\nRecipient: That sounds useful. What's the price?\nSalesperson: It normally sells at $66, but we have a 5% discount.\nRecipient: Cool. I'll take one.\nSalesperson: Awesome! Your order is being processed. Thank you, Parrish!"
+  },
+  {
+    "call_id": "91adafad-7935-47c6-8bc1-91116db82ff4",
+    "agent_id": "f1ee4ba6",
+    "customer_id": "2375fe6f",
+    "language": "en",
+    "start_time": "2025-06-21T20:45:31",
+    "duration_seconds": 35,
+    "transcript": "Salesperson: Hi, is this Mathews?\nRecipient: Yes, who's this?\nSalesperson: I'm Jessica Serrano from SmartClean. I'm calling to introduce our new HydroBooster.\nRecipient: Oh, what's special about it?\nSalesperson: It's eco-friendly and cost-efficient. Great for daily use.\nRecipient: That sounds useful. What's the price?\nSalesperson: It normally sells at $51, but we have a 10% discount.\nRecipient: Cool. I'll take one.\nSalesperson: Awesome! Your order is being processed. Thank you, Mathews!"
+  },
+  {
+    "call_id": "df79f7d5-a6bb-4c1b-8e76-625aa916e1e0",
+    "agent_id": "fbb09611",
+    "customer_id": "233a0ff8",
+    "language": "en",
+    "start_time": "2025-07-04T22:46:40",
+    "duration_seconds": 36,
+    "transcript": "Salesperson: Hi, is this Long?\nRecipient: Yes, who's this?\nSalesperson: I'm Angel Anderson from Brita. I'm calling to introduce our new AirFilter Pro.\nRecipient: Oh, what's special about it?\nSalesperson: It's eco-friendly and cost-efficient. Great for daily use.\nRecipient: That sounds useful. What's the price?\nSalesperson: It normally sells at $32, but we have a 5% discount.\nRecipient: Cool. I'll take one.\nSalesperson: Awesome! Your order is being processed. Thank you, Long!"
+  },
+  {
+    "call_id": "f1dfdc51-e849-4efe-9c6b-3d0aa7bbdbfa",
+    "agent_id": "4a711a35",
+    "customer_id": "a58556db",
+    "language": "en",
+    "start_time": "2025-06-09T14:27:58",
+    "duration_seconds": 36,
+    "transcript": "Salesperson: Hi, is this Weaver?\nRecipient: Yes, who's this?\nSalesperson: I'm Michael Norton from GreenTech Inc.. I'm calling to introduce our new SmartWater Bottle.\nRecipient: Oh, what's special about it?\nSalesperson: It's eco-friendly and cost-efficient. Great for daily use.\nRecipient: That sounds useful. What's the price?\nSalesperson: It normally sells at $47, but we have a 5% discount.\nRecipient: Cool. I'll take one.\nSalesperson: Awesome! Your order is being processed. Thank you, Weaver!"
+  },
+  {
+    "call_id": "d71df9b6-36da-423a-b2a9-2f59ecdbe05d",
+    "agent_id": "d64196b4",
+    "customer_id": "632be233",
+    "language": "en",
+    "start_time": "2025-06-09T08:42:45",
+    "duration_seconds": 46,
+    "transcript": "Salesperson: Hello, is this Rodriguez?\nRecipient: Yes, this is Rodriguez.\nSalesperson: Hi Rodriguez, I'm Brian Chavez from SmartClean. I'd like to talk about our RecycleMate.\nRecipient: Hmm, I'm not sure if we need that.\nSalesperson: Actually, RecycleMate can help you save costs and improve efficiency. It's perfect for businesses like yours.\nRecipient: Sounds interesting, but we're on a tight budget.\nSalesperson: I understand. We're offering a limited-time discount. Would you like to try a free demo?\nRecipient: Maybe later. We're just not ready now.\nSalesperson: No worries, Rodriguez. Thanks for your time!"
+  },
+  {
+    "call_id": "e5205222-8620-4cb7-875b-920631c10057",
+    "agent_id": "8f8e8675",
+    "customer_id": "3fcdb4eb",
+    "language": "en",
+    "start_time": "2025-06-17T16:45:50",
+    "duration_seconds": 46,
+    "transcript": "Salesperson: Hello, is this Harper?\nRecipient: Yes, this is Harper.\nSalesperson: Hi Harper, I'm Jennifer Graham from Brita. I'd like to talk about our EcoCycle.\nRecipient: Hmm, I'm not sure if we need that.\nSalesperson: Actually, EcoCycle can help you save costs and improve efficiency. It's perfect for businesses like yours.\nRecipient: Sounds interesting, but we're on a tight budget.\nSalesperson: I understand. We're offering a limited-time discount. Would you like to try a free demo?\nRecipient: Maybe later. We're just not ready now.\nSalesperson: No worries, Harper. Thanks for your time!"
+  },
+  {
+    "call_id": "496c368c-a789-4e08-b72e-f10f4255fa87",
+    "agent_id": "ab07fd23",
+    "customer_id": "a3ef3a9e",
+    "language": "en",
+    "start_time": "2025-06-23T01:18:34",
+    "duration_seconds": 46,
+    "transcript": "Salesperson: Hello, is this Rodriguez?\nRecipient: Yes, this is Rodriguez.\nSalesperson: Hi Rodriguez, I'm Ross Hendrix from Brita. I'd like to talk about our EcoCycle.\nRecipient: Hmm, I'm not sure if we need that.\nSalesperson: Actually, EcoCycle can help you save costs and improve efficiency. It's perfect for businesses like yours.\nRecipient: Sounds interesting, but we're on a tight budget.\nSalesperson: I understand. We're offering a limited-time discount. Would you like to try a free demo?\nRecipient: Maybe later. We're just not ready now.\nSalesperson: No worries, Rodriguez. Thanks for your time!"
+  },
+  {
+    "call_id": "610adff7-8f3c-4897-a41a-cb07f3217bf8",
+    "agent_id": "0273c7e6",
+    "customer_id": "27f76d90",
+    "language": "en",
+    "start_time": "2025-07-07T02:45:33",
+    "duration_seconds": 46,
+    "transcript": "Salesperson: Hello, is this Smith?\nRecipient: Yes, this is Smith.\nSalesperson: Hi Smith, I'm Sean Gonzalez from HydroPure. I'd like to talk about our EcoCycle.\nRecipient: Hmm, I'm not sure if we need that.\nSalesperson: Actually, EcoCycle can help you save costs and improve efficiency. It's perfect for businesses like yours.\nRecipient: Sounds interesting, but we're on a tight budget.\nSalesperson: I understand. We're offering a limited-time discount. Would you like to try a free demo?\nRecipient: Maybe later. We're just not ready now.\nSalesperson: No worries, Smith. Thanks for your time!"
+  },
+  {
+    "call_id": "f51f5aa8-fbc4-437c-8df9-21d506dd5fa1",
+    "agent_id": "9bea6ff9",
+    "customer_id": "4a6ffd2e",
+    "language": "en",
+    "start_time": "2025-07-26T18:36:18",
+    "duration_seconds": 46,
+    "transcript": "Salesperson: Hello, is this Patton?\nRecipient: Yes, this is Patton.\nSalesperson: Hi Patton, I'm Derek Castillo from Brita. I'd like to talk about our RecycleMate.\nRecipient: Hmm, I'm not sure if we need that.\nSalesperson: Actually, RecycleMate can help you save costs and improve efficiency. It's perfect for businesses like yours.\nRecipient: Sounds interesting, but we're on a tight budget.\nSalesperson: I understand. We're offering a limited-time discount. Would you like to try a free demo?\nRecipient: Maybe later. We're just not ready now.\nSalesperson: No worries, Patton. Thanks for your time!"
+  },
+  {
+    "call_id": "f3742203-c763-47ab-adad-b5733da210b4",
+    "agent_id": "175a42b4",
+    "customer_id": "80bd0d7f",
+    "language": "en",
+    "start_time": "2025-07-26T05:34:07",
+    "duration_seconds": 36,
+    "transcript": "Salesperson: Hi, is this Carter?\nRecipient: Yes, who's this?\nSalesperson: I'm Stephanie Henry from GreenTech Inc.. I'm calling to introduce our new AirFilter Pro.\nRecipient: Oh, what's special about it?\nSalesperson: It's eco-friendly and cost-efficient. Great for daily use.\nRecipient: That sounds useful. What's the price?\nSalesperson: It normally sells at $65, but we have a 15% discount.\nRecipient: Cool. I'll take one.\nSalesperson: Awesome! Your order is being processed. Thank you, Carter!"
+  },
+  {
+    "call_id": "15dc6aa3-4f2e-4fad-a17c-d33248f1e58d",
+    "agent_id": "6e8152c9",
+    "customer_id": "40b50133",
+    "language": "en",
+    "start_time": "2025-06-07T01:16:52",
+    "duration_seconds": 36,
+    "transcript": "Salesperson: Hi, is this Moran?\nRecipient: Yes, who's this?\nSalesperson: I'm Tiffany Mason from GreenTech Inc.. I'm calling to introduce our new AirFilter Pro.\nRecipient: Oh, what's special about it?\nSalesperson: It's eco-friendly and cost-efficient. Great for daily use.\nRecipient: That sounds useful. What's the price?\nSalesperson: It normally sells at $51, but we have a 15% discount.\nRecipient: Cool. I'll take one.\nSalesperson: Awesome! Your order is being processed. Thank you, Moran!"
+  },
+  {
+    "call_id": "bc061150-2d48-482d-9a26-b056d4da9cdf",
+    "agent_id": "99a75186",
+    "customer_id": "bfb40df8",
+    "language": "en",
+    "start_time": "2025-06-25T15:30:37",
+    "duration_seconds": 46,
+    "transcript": "Salesperson: Hello, is this Bauer?\nRecipient: Yes, this is Bauer.\nSalesperson: Hi Bauer, I'm Jessica Rivera from EcoHome. I'd like to talk about our HydroBooster.\nRecipient: Hmm, I'm not sure if we need that.\nSalesperson: Actually, HydroBooster can help you save costs and improve efficiency. It's perfect for businesses like yours.\nRecipient: Sounds interesting, but we're on a tight budget.\nSalesperson: I understand. We're offering a limited-time discount. Would you like to try a free demo?\nRecipient: Maybe later. We're just not ready now.\nSalesperson: No worries, Bauer. Thanks for your time!"
+  },
+  {
+    "call_id": "0d5e0a4a-07cf-4086-a7c5-df21e8bd1526",
+    "agent_id": "2ef79a9f",
+    "customer_id": "e4367c1e",
+    "language": "en",
+    "start_time": "2025-07-03T17:52:28",
+    "duration_seconds": 47,
+    "transcript": "Salesperson: Hello, is this Mckay?\nRecipient: Yes, this is Mckay.\nSalesperson: Hi Mckay, I'm Tyler Thompson from EcoHome. I'd like to talk about our SmartWater Bottle.\nRecipient: Hmm, I'm not sure if we need that.\nSalesperson: Actually, SmartWater Bottle can help you save costs and improve efficiency. It's perfect for businesses like yours.\nRecipient: Sounds interesting, but we're on a tight budget.\nSalesperson: I understand. We're offering a limited-time discount. Would you like to try a free demo?\nRecipient: Maybe later. We're just not ready now.\nSalesperson: No worries, Mckay. Thanks for your time!"
+  },
+  {
+    "call_id": "df38732f-c11c-4e61-93d6-fa1faf1795c1",
+    "agent_id": "2d4cc518",
+    "customer_id": "59fee0e9",
+    "language": "en",
+    "start_time": "2025-06-03T10:21:05",
+    "duration_seconds": 47,
+    "transcript": "Salesperson: Hello, is this Nelson?\nRecipient: Yes, this is Nelson.\nSalesperson: Hi Nelson, I'm Phillip Henderson from Brita. I'd like to talk about our AirFilter Pro.\nRecipient: Hmm, I'm not sure if we need that.\nSalesperson: Actually, AirFilter Pro can help you save costs and improve efficiency. It's perfect for businesses like yours.\nRecipient: Sounds interesting, but we're on a tight budget.\nSalesperson: I understand. We're offering a limited-time discount. Would you like to try a free demo?\nRecipient: Maybe later. We're just not ready now.\nSalesperson: No worries, Nelson. Thanks for your time!"
+  },
+  {
+    "call_id": "831e1ad7-d1ca-4f7f-a746-ebdd05d01adc",
+    "agent_id": "fef936bd",
+    "customer_id": "a24f4afa",
+    "language": "en",
+    "start_time": "2025-07-21T10:03:08",
+    "duration_seconds": 46,
+    "transcript": "Salesperson: Hello, is this Herrera?\nRecipient: Yes, this is Herrera.\nSalesperson: Hi Herrera, I'm Jacob Wood DVM from EcoHome. I'd like to talk about our EcoCycle.\nRecipient: Hmm, I'm not sure if we need that.\nSalesperson: Actually, EcoCycle can help you save costs and improve efficiency. It's perfect for businesses like yours.\nRecipient: Sounds interesting, but we're on a tight budget.\nSalesperson: I understand. We're offering a limited-time discount. Would you like to try a free demo?\nRecipient: Maybe later. We're just not ready now.\nSalesperson: No worries, Herrera. Thanks for your time!"
+  },
+  {
+    "call_id": "9d366d63-a339-4ba3-9c29-646c2fb55b76",
+    "agent_id": "b68b2382",
+    "customer_id": "fdb6b178",
+    "language": "en",
+    "start_time": "2025-06-29T00:24:26",
+    "duration_seconds": 36,
+    "transcript": "Salesperson: Hi, is this Bennett?\nRecipient: Yes, who's this?\nSalesperson: I'm Brenda Lopez from GreenTech Inc.. I'm calling to introduce our new SmartWater Bottle.\nRecipient: Oh, what's special about it?\nSalesperson: It's eco-friendly and cost-efficient. Great for daily use.\nRecipient: That sounds useful. What's the price?\nSalesperson: It normally sells at $38, but we have a 15% discount.\nRecipient: Cool. I'll take one.\nSalesperson: Awesome! Your order is being processed. Thank you, Bennett!"
+  },
+  {
+    "call_id": "0b9ffe1d-d9b2-4bca-bed7-a901b1aa42c0",
+    "agent_id": "4e45bcec",
+    "customer_id": "79507424",
+    "language": "en",
+    "start_time": "2025-06-20T14:49:52",
+    "duration_seconds": 47,
+    "transcript": "Salesperson: Hello, is this Ferrell?\nRecipient: Yes, this is Ferrell.\nSalesperson: Hi Ferrell, I'm William Allen from SmartClean. I'd like to talk about our AirFilter Pro.\nRecipient: Hmm, I'm not sure if we need that.\nSalesperson: Actually, AirFilter Pro can help you save costs and improve efficiency. It's perfect for businesses like yours.\nRecipient: Sounds interesting, but we're on a tight budget.\nSalesperson: I understand. We're offering a limited-time discount. Would you like to try a free demo?\nRecipient: Maybe later. We're just not ready now.\nSalesperson: No worries, Ferrell. Thanks for your time!"
+  }
+]
