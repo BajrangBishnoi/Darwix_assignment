@@ -120,19 +120,27 @@ http://localhost:8000/docs
 ```
 Fetch all calls
 ```bash
- http://localhost:8000/api/v1/calls 
+curl -X 'GET' \
+  'http://127.0.0.1:8000/api/v1/calls?limit=10&offset=10' \
+  -H 'accept: application/json'
 ```
 Fetch call by ID
 ```bash
-http://localhost:8000/api/v1/calls/{call_id}  
+curl -X 'GET' \
+  'http://127.0.0.1:8000/api/v1/calls/533a7bc7-66d9-427d-89ef-5d947772ea5f' \
+  -H 'accept: application/json'
 ```
 Fetch call by ID and recommendations
 ```bash
-http://localhost:8000/api/v1/calls/{call_id}/recommendations 
+curl -X 'GET' \
+  'http://127.0.0.1:8000/api/v1/calls/533a7bc7-66d9-427d-89ef-5d947772ea5f/recommendations' \
+  -H 'accept: application/json'
 ```
 Fetch agent analysis
 ```bash
-http://localhost:8000/api/v1/analytics/agents 
+curl -X 'GET' \
+  'http://127.0.0.1:8000/api/v1/analytics/agents' \
+  -H 'accept: application/json' 
 ```
 
 ### LLM Operations (app/llm_operations/)
